@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.2.0.exe",
+    "sha256": "05042ebf13a897b160bb231923e6e5c2ae747771d740f30c0165956cbef0452b",
+    "size": 52058557,
+    "notes": "자동 업데이트 기능 추가: 새 버전을 알아서 받아 설치하고 다시 켜져요(창을 쓰는 중이면 왼쪽 '새 버전 설치' 버튼). 설정 → 업데이트에서 지금 확인·자동 설치 끄기.",
+    "published_at": "2026-10-21T19:13:44Z"
+  },
+  "signature": "ir5dJDZ5mstByFd9FfCw+1/vlMQCBdMGRbXinLKU1BSXN03rYEKQCZaoi2wb7rOPqC1fI2hkWd12KyWC9SWCBw=="
+}
