@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.3.1",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.3.1.exe",
-    "sha256": "00155389039aeb3ab00bc13eb3b5316720d1d9a0d23de560b0e01bb64219a746",
-    "size": 52083744,
-    "notes": "앱을 열 때 새 버전이 있으면 바로 받아서 설치하고 다시 켜요(트레이에 있던 창을 열 때도 똑같이). 켜 둔 동안에는 30분마다 확인해요. 작업 처리 중 드물게 앱이 꺼질 수 있던 문제 수정.",
-    "published_at": "2026-10-22T10:09:30Z"
+    "version": "0.4.2",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.4.2.exe",
+    "sha256": "e475d10f446a9a184779671fbd64c1f9e8d7650b9fb4467cfa99fa62497d317b",
+    "size": 56315455,
+    "notes": "자동 업로드: PC 크롬 프로필(예: 이십육)을 채널로 골라 그 로그인으로 유튜브 스튜디오에 올려요. 올리는 동안 크롬 창이 보여요. 썸네일·자세히 보기·광고 적합성·예약 공개까지 사람처럼 클릭하고, 예약 간격(1·2·3시간/랜덤), 제목 고르기(대제목/AI 추천 3개), 테스트 모드, 작업 속도 설정을 추가했어요. 처음에는 설정에서 테스트 모드를 켜고 한 편 올려 보세요.",
+    "published_at": "2026-10-22T21:03:29Z"
   },
-  "signature": "TaaG5553Kfd0QmbldzQMA5Z7cKviqNKlbsZKWK21UhHwgAhj4cWnaTsJ8viTMvjcBEnBgN4uXy5diK0ulRZ1Dw=="
+  "signature": "ZJBvsdlrYOpl6reOLAGujDkmWrl7o+yudiKOZCf9szEgondPbpDvKYkaxR7q3LnbPOep1k2Tf0hPBaYzW0L+Dw=="
 }
