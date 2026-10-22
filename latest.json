@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.2.0",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.2.0.exe",
-    "sha256": "05042ebf13a897b160bb231923e6e5c2ae747771d740f30c0165956cbef0452b",
-    "size": 52058557,
-    "notes": "자동 업데이트 기능 추가: 새 버전을 알아서 받아 설치하고 다시 켜져요(창을 쓰는 중이면 왼쪽 '새 버전 설치' 버튼). 설정 → 업데이트에서 지금 확인·자동 설치 끄기.",
-    "published_at": "2026-10-21T19:13:44Z"
+    "version": "0.3.0",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.3.0.exe",
+    "sha256": "0da89d7be8ddf2196290e2e20dd9b3ddd9d6ea10ae5bf0d1fd15038950c6ce57",
+    "size": 52074397,
+    "notes": "제작 라이브러리 카드에 '코덱스에서 제작 시작'·'클로드 코드로 제작하기' 버튼 추가(Codex 앱·Claude 앱에서 내 프로젝트를 열고 지침을 넘김). 설정에 'AI 제작 연결' 추가. 왼쪽 메뉴에 '자동 업로드' 탭 추가(아직 준비 중 화면). 설정 화면 숫자 칸이 비어 보이던 문제 수정.",
+    "published_at": "2026-10-22T09:35:32Z"
   },
-  "signature": "ir5dJDZ5mstByFd9FfCw+1/vlMQCBdMGRbXinLKU1BSXN03rYEKQCZaoi2wb7rOPqC1fI2hkWd12KyWC9SWCBw=="
+  "signature": "BDGIdWnsBoscmwy/d5sd7E+aVP5WJ/qGWXbJycYFdVP4+WKPg68xL73fYrDrTUQYyLcAvpxc5NgTXCe8IpTrAA=="
 }
