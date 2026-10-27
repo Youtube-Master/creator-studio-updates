@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.5.5",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.5.exe",
-    "sha256": "a6b89831c7214ba5fd1a33a7bfe15a42f28a3e303ddb7280b3f40e5e4531cbf3",
-    "size": 57172202,
-    "notes": "업로드 시작 오류(uiautomation) 수정: 바탕화면 아이콘 방식이 윈도우에서 바로 멈추던 문제를 고쳤어요.",
-    "published_at": "2026-10-27T13:14:58Z"
+    "version": "0.5.6",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.6.exe",
+    "sha256": "397158d6dd12d969b9afba88419a9a4cac4e4808c6a8f243e3f839427b5a0946",
+    "size": 57163690,
+    "notes": "유료 프로모션·AI 사용(항상 아니요) 단계 수정, 영상 화면 대제목을 제목으로, ▶ 시작은 폴더의 가장 최근 영상, 규칙에서 바탕화면 아이콘으로 채널 고르기",
+    "published_at": "2026-10-27T17:12:38Z"
   },
-  "signature": "EoJpUcy334CRVSojdNFtjOdL90iuvKhC2G+n9RbwUuqSD7FzbI/Q7Kawu5aYw7T9dYSZytRxRlakJM/nesSVDg=="
+  "signature": "NujKsxvjeQuXLHifDvFaNyYrw85q14Qnqq/Ftmb+J52CRf+n0lq0AEd57TyH+iWvJtjstH70JceDv/whoq2hDw=="
 }
