@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.5.4",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.4.exe",
-    "sha256": "a97d5a7dd1d38e30ab283e7d3758ee321b486e0e9707b36017db64260b87069a",
-    "size": 57160483,
-    "notes": "채널 탭에 '▶ 시작' 버튼: 채널을 고르고 누르면 올릴 영상을 골라 그 채널 규칙 설정으로 바로 올려요(바탕화면 아이콘 채널은 10초 안내 뒤 아이콘을 더블클릭해서 마우스·키보드로 올림).",
-    "published_at": "2026-10-27T12:27:34Z"
+    "version": "0.5.5",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.5.exe",
+    "sha256": "a6b89831c7214ba5fd1a33a7bfe15a42f28a3e303ddb7280b3f40e5e4531cbf3",
+    "size": 57172202,
+    "notes": "업로드 시작 오류(uiautomation) 수정: 바탕화면 아이콘 방식이 윈도우에서 바로 멈추던 문제를 고쳤어요.",
+    "published_at": "2026-10-27T13:14:58Z"
   },
-  "signature": "2fve5OjUcSv8+YWoXAsokLcY4ZWCtUGirfvdjWLOMEQUJhs6xdVHvfTNg1mJtQzMHUiX47S7lOFJapIUq4ILCg=="
+  "signature": "EoJpUcy334CRVSojdNFtjOdL90iuvKhC2G+n9RbwUuqSD7FzbI/Q7Kawu5aYw7T9dYSZytRxRlakJM/nesSVDg=="
 }
