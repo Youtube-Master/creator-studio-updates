@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.5.7",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.7.exe",
-    "sha256": "1d8221cc9c9604490e0c67be37134842453b30e7ff23293cd11c99f0da776c87",
-    "size": 57170079,
-    "notes": "'자세히 보기'를 스크롤해서 확실히 눌러 AI 사용·유료 프로모션 칸을 펼침, ▶ 시작은 하위 폴더까지 보고 가장 최근 영상을 올림",
-    "published_at": "2026-10-27T18:39:50Z"
+    "version": "0.5.8",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.8.exe",
+    "sha256": "0bccbba13913d7c3aa695e257540cc7456736ac67d680ebff3470e1d0765ac9c",
+    "size": 57174498,
+    "notes": "'자세히 보기'를 확실히 눌러 펼친 뒤 AI 사용 '아니요'를 고름(접힌 칸을 펼쳐진 것으로 착각하던 문제 수정)",
+    "published_at": "2026-10-27T19:16:33Z"
   },
-  "signature": "HSgxLDHsznpAt/yqbsvWYDXGyN/3QHFIJjyIzkWpTMBt6Wg0alVfuV6wvT7ztGTmXhgFIrBS3mAOxEgNDmWfCQ=="
+  "signature": "qxXeTmdej80Jem+aWkNROi8PyAK6IqBT8ricGxAhewa26F+bawRhygfvgDhVIcwU580dOKMmsp6i3yRIQnM0Dg=="
 }
