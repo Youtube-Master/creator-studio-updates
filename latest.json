@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.4.3",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.4.3.exe",
-    "sha256": "0016fde45c780e0c768328df56206d7af2ef9e8297439c1e1374e780722dfccd",
-    "size": 56312746,
-    "notes": "업로드 기록에 '삭제' 버튼 추가(올리는 중인 영상은 못 지움). 채널 로그인이 안 넘어왔을 때 안내 보강: PC 크롬을 모두 닫고 '다시 가져오기', 또는 '크롬 창 열기'로 한 번 로그인 후 '로그인 확인'.",
-    "published_at": "2026-10-22T21:39:48Z"
+    "version": "0.5.1",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.1.exe",
+    "sha256": "d06f1fdb239dde732d6ac7623466d6baf090902caf9ab18d206054aa363886f5",
+    "size": 56402487,
+    "notes": "다크 모드(왼쪽 아래 '다크 모드 켜기'). 대화상자 글씨가 배경에 묻히던 문제 수정. 자동 업로드 채널 = 채널 전용 크롬 + 바탕화면 바로가기(처음 한 번 로그인). 바로가기·'크롬 창 열기' 창에서 구글 로그인이 막히던 문제 수정(그 창이 열려 있으면 업로드는 닫힐 때까지 기다림).",
+    "published_at": "2026-10-27T10:52:13Z"
   },
-  "signature": "TnhsFDX3cqiumzUNrssKE/pYOcCJdRqwiNADkgktTycWjrf8nIXdi9W2AB2D8E4kx5461XCGC5f4DkaH78RXAg=="
+  "signature": "TPPK98CKNQwcnqvqME1Kuq0iYKcUisV03U0zuFPtk3SuNFTlg39NEvD4ETNyJPgF7UR1mFfFES5EPIg6Uwm0CQ=="
 }
