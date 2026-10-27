@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.5.8",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.8.exe",
-    "sha256": "0bccbba13913d7c3aa695e257540cc7456736ac67d680ebff3470e1d0765ac9c",
-    "size": 57174498,
-    "notes": "'자세히 보기'를 확실히 눌러 펼친 뒤 AI 사용 '아니요'를 고름(접힌 칸을 펼쳐진 것으로 착각하던 문제 수정)",
-    "published_at": "2026-10-27T19:16:33Z"
+    "version": "0.5.9",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.9.exe",
+    "sha256": "b90800753706e4477048c80b40171ccfd8985d738ef78876688d3db2f39e2bbd",
+    "size": 57178296,
+    "notes": "광고 적합성: 아래로 스크롤해 '해당 사항 없음' 체크 → 켜진 '평가 제출' → 평가 완료 뒤 다음",
+    "published_at": "2026-10-27T22:04:42Z"
   },
-  "signature": "qxXeTmdej80Jem+aWkNROi8PyAK6IqBT8ricGxAhewa26F+bawRhygfvgDhVIcwU580dOKMmsp6i3yRIQnM0Dg=="
+  "signature": "/5i1eSH6jnY4m2z89mNzkoNuG6eBMWdLNYMxcJCnfuxGWYP9IK7oKAB2YEmniT2RYhCsAxvBdxQCtoiheXmTAg=="
 }
