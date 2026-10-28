@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.5.9",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.9.exe",
-    "sha256": "b90800753706e4477048c80b40171ccfd8985d738ef78876688d3db2f39e2bbd",
-    "size": 57178296,
-    "notes": "광고 적합성: 아래로 스크롤해 '해당 사항 없음' 체크 → 켜진 '평가 제출' → 평가 완료 뒤 다음",
-    "published_at": "2026-10-27T22:04:42Z"
+    "version": "0.5.10",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.10.exe",
+    "sha256": "60d473db29838578e38b3fd16fd1788acbf1abb7647864425ea2e3ae60c34b4a",
+    "size": 57168878,
+    "notes": "바로 게시 대신 30분 뒤 예약(PC 시간 15분 반올림 + 30분), 달력에서 날짜 누르기, 광고 검사 기다리지 않음",
+    "published_at": "2026-10-28T10:48:04Z"
   },
-  "signature": "/5i1eSH6jnY4m2z89mNzkoNuG6eBMWdLNYMxcJCnfuxGWYP9IK7oKAB2YEmniT2RYhCsAxvBdxQCtoiheXmTAg=="
+  "signature": "VsCEYFPUkJIiEjwaNaANWHBK10Ql56HOa26PudMu+XRUEpVHAC9TwTl87Xidam9m9pZXBKyM2HR484JHqxuWDw=="
 }
