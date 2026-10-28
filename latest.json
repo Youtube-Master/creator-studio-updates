@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.6.2",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.2.exe",
-    "sha256": "3750017bc4110402a448a894afe12fa3f37a5f591568bb911bc8de33a01fe004",
-    "size": 57214436,
-    "notes": "AI 플레이리스트: '한 번에 N편'으로 같은 프리셋 여러 편을 이어서 만들기(편마다 새 곡·다른 주제, Claude 키 없으면 제목에 Vol.1·2… 붙임)",
-    "published_at": "2026-10-28T22:14:49Z"
+    "version": "0.6.3",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.3.exe",
+    "sha256": "6c4654329ffd9896b81ebdba917e43b2a111e76e9502abb2112d902ffe2e722b",
+    "size": 57226038,
+    "notes": "AI 플레이리스트: 편마다 배경 그림과 한글 제목 썸네일을 Kie GPT 이미지(또는 나노바나나)로 만들어 업로드에 씀. 설명란을 감성 소개글 → 🎵 Time Track(00:00 - 한글 곡 제목) → 해시태그 형식으로",
+    "published_at": "2026-10-28T22:27:36Z"
   },
-  "signature": "VYByX1jI1N5UVx0jnnkoVIESunC9hUmvoJHr6ENxUeCvi4c6BVcv6DD5R8rRmzEw75j+X1xnsyzmdq9khqMfDg=="
+  "signature": "0FZd8CsLmwOZ5N4dWKop7HU9ovsjRrffytvCqyt94sJosiBm6BuT8Dd6L3P/SWivu854HonoikVipDpgpTNxAg=="
 }
