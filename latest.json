@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.5.11",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.11.exe",
-    "sha256": "dea61bbfa29c0dc09bd60ec32ca7af11cd1726643076b9852b2dfba9110dc432",
-    "size": 57184534,
-    "notes": "AI 사용 '아니요'를 못 찾던 문제: 크롬이 업로드 창 안쪽을 안 굴리면 휠로 내려서 찾기, 실패하면 화면정보 남기기",
-    "published_at": "2026-10-28T19:27:04Z"
+    "version": "0.6.0",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.0.exe",
+    "sha256": "f3c77816405da05aba930c260253c3971b92e31a4df899c91aa0ed3c2f57c546",
+    "size": 57212429,
+    "notes": "새 메뉴 'AI 플레이리스트': Kie(Suno)로 곡을 목표 길이만큼 만들어 한 영상으로 이어 붙이고(배경 이미지·곡 사이 겹치기·설명란 타임스탬프), 고른 자동 업로드 규칙 폴더로 보내 자동 업로드",
+    "published_at": "2026-10-28T21:45:22Z"
   },
-  "signature": "hCHiGCXhj3G/CbQbiejr57NQqY9QtnPEXarXl8PKfADFu/FQsCFf0bIInr8E2EgGfTmY8WjgyKxxgSsg0RbsCQ=="
+  "signature": "exdFV75FdvuDeTSXb3ryVzv+OBvBPLheuwlYP7Yzrx76V3JX/1GDsJOvjHBcesEiMdGpTZPipEYls9u4onZsBw=="
 }
