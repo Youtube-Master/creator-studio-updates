@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.6.0",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.0.exe",
-    "sha256": "f3c77816405da05aba930c260253c3971b92e31a4df899c91aa0ed3c2f57c546",
-    "size": 57212429,
-    "notes": "새 메뉴 'AI 플레이리스트': Kie(Suno)로 곡을 목표 길이만큼 만들어 한 영상으로 이어 붙이고(배경 이미지·곡 사이 겹치기·설명란 타임스탬프), 고른 자동 업로드 규칙 폴더로 보내 자동 업로드",
-    "published_at": "2026-10-28T21:45:22Z"
+    "version": "0.6.1",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.1.exe",
+    "sha256": "ff43e0e6601548374c57c3977de40d97313882689c0b611cce5cc4313eeed62d",
+    "size": 57220056,
+    "notes": "AI 플레이리스트를 매번 다르게: 음악 분위기를 한 줄에 하나씩 여러 개 넣으면 회차마다 안 쓴 분위기를 고르고, 주제·음악 설명·제목·설명 머리말을 새로 씀(Claude 키 있으면 Claude), 배경 폴더 돌려쓰기, 길이·겹치기·곡 순서 무작위",
+    "published_at": "2026-10-28T22:01:39Z"
   },
-  "signature": "exdFV75FdvuDeTSXb3ryVzv+OBvBPLheuwlYP7Yzrx76V3JX/1GDsJOvjHBcesEiMdGpTZPipEYls9u4onZsBw=="
+  "signature": "JSJrrPiD7iv2lczt7myWEXQxIWqtc0i4y3oiSLD+4fhJbAo1UDepBShEY2FBuwxGeRJTkAgQQLuBSSpxAXlqAQ=="
 }
