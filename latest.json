@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.5.10",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.10.exe",
-    "sha256": "60d473db29838578e38b3fd16fd1788acbf1abb7647864425ea2e3ae60c34b4a",
-    "size": 57168878,
-    "notes": "바로 게시 대신 30분 뒤 예약(PC 시간 15분 반올림 + 30분), 달력에서 날짜 누르기, 광고 검사 기다리지 않음",
-    "published_at": "2026-10-28T10:48:04Z"
+    "version": "0.5.11",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.5.11.exe",
+    "sha256": "dea61bbfa29c0dc09bd60ec32ca7af11cd1726643076b9852b2dfba9110dc432",
+    "size": 57184534,
+    "notes": "AI 사용 '아니요'를 못 찾던 문제: 크롬이 업로드 창 안쪽을 안 굴리면 휠로 내려서 찾기, 실패하면 화면정보 남기기",
+    "published_at": "2026-10-28T19:27:04Z"
   },
-  "signature": "VsCEYFPUkJIiEjwaNaANWHBK10Ql56HOa26PudMu+XRUEpVHAC9TwTl87Xidam9m9pZXBKyM2HR484JHqxuWDw=="
+  "signature": "hCHiGCXhj3G/CbQbiejr57NQqY9QtnPEXarXl8PKfADFu/FQsCFf0bIInr8E2EgGfTmY8WjgyKxxgSsg0RbsCQ=="
 }
