@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.6.1",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.1.exe",
-    "sha256": "ff43e0e6601548374c57c3977de40d97313882689c0b611cce5cc4313eeed62d",
-    "size": 57220056,
-    "notes": "AI 플레이리스트를 매번 다르게: 음악 분위기를 한 줄에 하나씩 여러 개 넣으면 회차마다 안 쓴 분위기를 고르고, 주제·음악 설명·제목·설명 머리말을 새로 씀(Claude 키 있으면 Claude), 배경 폴더 돌려쓰기, 길이·겹치기·곡 순서 무작위",
-    "published_at": "2026-10-28T22:01:39Z"
+    "version": "0.6.2",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.2.exe",
+    "sha256": "3750017bc4110402a448a894afe12fa3f37a5f591568bb911bc8de33a01fe004",
+    "size": 57214436,
+    "notes": "AI 플레이리스트: '한 번에 N편'으로 같은 프리셋 여러 편을 이어서 만들기(편마다 새 곡·다른 주제, Claude 키 없으면 제목에 Vol.1·2… 붙임)",
+    "published_at": "2026-10-28T22:14:49Z"
   },
-  "signature": "JSJrrPiD7iv2lczt7myWEXQxIWqtc0i4y3oiSLD+4fhJbAo1UDepBShEY2FBuwxGeRJTkAgQQLuBSSpxAXlqAQ=="
+  "signature": "VYByX1jI1N5UVx0jnnkoVIESunC9hUmvoJHr6ENxUeCvi4c6BVcv6DD5R8rRmzEw75j+X1xnsyzmdq9khqMfDg=="
 }
