@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.1",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.1.exe",
-    "sha256": "306a0e1dac33e13d47d65ed86f47edb59ab0a498f87b14f49cf3bc179f509543",
-    "size": 57315729,
-    "notes": "채널 수익: 스튜디오 분석이 '오류가 발생했습니다'를 띄우던 문제 고침. 이제 사람처럼 '고급 모드' → '분류' → '날짜'를 직접 눌러 날짜별 표를 열고, 오류 화면이면 '재시도'를 누르고 다른 방법으로 다시 열어요.",
-    "published_at": "2026-10-29T12:12:55Z"
+    "version": "0.7.2",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.2.exe",
+    "sha256": "035fe6f771a8c56294384b58956c215e4eebdcac64838e7193dfd68d84472aed",
+    "size": 57361763,
+    "notes": "AI 플레이리스트: 다 만든 영상을 눈에 잘 보이는 '동영상 → Creator Studio → AI 플레이리스트' 폴더에 저장하고(예전 영상도 옮겨요), PC용 구글 드라이브가 있으면 '내 드라이브 → Creator Studio → AI 플레이리스트'에도 복사해요. 화면 위쪽에서 저장 폴더와 드라이브 폴더를 바꿀 수 있어요.",
+    "published_at": "2026-10-29T13:02:15Z"
   },
-  "signature": "g2i12RHs7zGmN7k5WROdk8YHDT5e1auwRyBh314RMgsuqfNjhY1rNyBvyovT3T3YmMdNmqw6N6A6L0cYSeyjBA=="
+  "signature": "4TWmf3Po/+1AsiI76mbRn7hPREBki/pI7EMTEWxPc7LD6Hbob/1YL9HHcRZ+2NMtGJ5UG67naHoVG5OcS3Y/Ag=="
 }
