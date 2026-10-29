@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.6.3",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.3.exe",
-    "sha256": "6c4654329ffd9896b81ebdba917e43b2a111e76e9502abb2112d902ffe2e722b",
-    "size": 57226038,
-    "notes": "AI 플레이리스트: 편마다 배경 그림과 한글 제목 썸네일을 Kie GPT 이미지(또는 나노바나나)로 만들어 업로드에 씀. 설명란을 감성 소개글 → 🎵 Time Track(00:00 - 한글 곡 제목) → 해시태그 형식으로",
-    "published_at": "2026-10-28T22:27:36Z"
+    "version": "0.6.4",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.4.exe",
+    "sha256": "99a0432fcafd66ea8a084bad0f748fbe350c15228d7133b50f6f93f78429ce44",
+    "size": 57225680,
+    "notes": "AI 플레이리스트 썸네일: 큰 제목 아래 작은 'PLAYLIST' 줄 추가(프리셋 '썸네일 작은 글씨'에서 바꾸거나 비울 수 있음)",
+    "published_at": "2026-10-29T07:33:49Z"
   },
-  "signature": "0FZd8CsLmwOZ5N4dWKop7HU9ovsjRrffytvCqyt94sJosiBm6BuT8Dd6L3P/SWivu854HonoikVipDpgpTNxAg=="
+  "signature": "i92j5ErY+4w8sf2MV0GDmz2wkLh8iC3WpYe/ew5nFUE8Gz0VocgfiFNBg5JZtWAO6N+20lsJ7dn8syt9QL6QBw=="
 }
