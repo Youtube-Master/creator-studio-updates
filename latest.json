@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.6.4",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.4.exe",
-    "sha256": "99a0432fcafd66ea8a084bad0f748fbe350c15228d7133b50f6f93f78429ce44",
-    "size": 57225680,
-    "notes": "AI 플레이리스트 썸네일: 큰 제목 아래 작은 'PLAYLIST' 줄 추가(프리셋 '썸네일 작은 글씨'에서 바꾸거나 비울 수 있음)",
-    "published_at": "2026-10-29T07:33:49Z"
+    "version": "0.6.5",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.5.exe",
+    "sha256": "dc67fd57e078a91c18c29eac224177f582b3b9c339612009f07ba1662e66da85",
+    "size": 57223868,
+    "notes": "AI 플레이리스트: 자동 업로드 규칙 대신 바탕화면 채널 아이콘을 바로 고르기(완성되면 그 아이콘을 더블클릭해 올림, 여러 편은 1~3시간 간격 예약)",
+    "published_at": "2026-10-29T07:50:34Z"
   },
-  "signature": "i92j5ErY+4w8sf2MV0GDmz2wkLh8iC3WpYe/ew5nFUE8Gz0VocgfiFNBg5JZtWAO6N+20lsJ7dn8syt9QL6QBw=="
+  "signature": "/Vl5/MDP37oK+/g5Gk6PJUfjO7CpFbqx3zoWSaQlImLDbIqnrmeL0sPKkFA4uhPtOMQb3CogUrySKQA4i+qSBg=="
 }
