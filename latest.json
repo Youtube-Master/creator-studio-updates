@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.2",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.2.exe",
-    "sha256": "035fe6f771a8c56294384b58956c215e4eebdcac64838e7193dfd68d84472aed",
-    "size": 57361763,
-    "notes": "AI 플레이리스트: 다 만든 영상을 눈에 잘 보이는 '동영상 → Creator Studio → AI 플레이리스트' 폴더에 저장하고(예전 영상도 옮겨요), PC용 구글 드라이브가 있으면 '내 드라이브 → Creator Studio → AI 플레이리스트'에도 복사해요. 화면 위쪽에서 저장 폴더와 드라이브 폴더를 바꿀 수 있어요.",
-    "published_at": "2026-10-29T13:02:15Z"
+    "version": "0.7.3",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.3.exe",
+    "sha256": "092a19d03b3f87c89eb8e061fcb3a2e74337186a1d6fac2724d7102cae3690c6",
+    "size": 64430902,
+    "notes": "AI 플레이리스트: 새 썸네일(분위기 문구·장르 태그·파동 아이콘, 앱이 직접 씀), 영상 안 비·눈 효과(분위기에 맞을 때만)와 음악에 맞춰 움직이는 파동, 설명란 총 재생시간·곡별 길이, 가사 있는 노래(한국어/영어) 선택, 가려진 Claude 키 안내",
+    "published_at": "2026-10-29T14:56:24Z"
   },
-  "signature": "4TWmf3Po/+1AsiI76mbRn7hPREBki/pI7EMTEWxPc7LD6Hbob/1YL9HHcRZ+2NMtGJ5UG67naHoVG5OcS3Y/Ag=="
+  "signature": "9n8Lsq/cYUTHlSpAuToNRIXu0hfkNbk3lVXOT1HHqutRmMYV+cBV2pTLOlH930MSXkuVZQSlnnUoHIMDp3YTAw=="
 }
