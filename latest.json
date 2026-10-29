@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.3",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.3.exe",
-    "sha256": "092a19d03b3f87c89eb8e061fcb3a2e74337186a1d6fac2724d7102cae3690c6",
-    "size": 64430902,
-    "notes": "AI 플레이리스트: 새 썸네일(분위기 문구·장르 태그·파동 아이콘, 앱이 직접 씀), 영상 안 비·눈 효과(분위기에 맞을 때만)와 음악에 맞춰 움직이는 파동, 설명란 총 재생시간·곡별 길이, 가사 있는 노래(한국어/영어) 선택, 가려진 Claude 키 안내",
-    "published_at": "2026-10-29T14:56:24Z"
+    "version": "0.7.4",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.4.exe",
+    "sha256": "7aae2b56bfda37dba431a3aecce85fccd8340fce645ff2411c25442ff85dd185",
+    "size": 64435672,
+    "notes": "AI 플레이리스트: 하루 한 편씩 매일 정해진 시각(기본 18:00)에 예약 공개(한 번에 여러 편 만들어도 날마다 하나씩, 프리셋 창에서 시각 바꾸기), 영상 길이는 목표보다 3~10% 길게(60분 → 1시간 2~10분쯤)",
+    "published_at": "2026-10-29T15:38:23Z"
   },
-  "signature": "9n8Lsq/cYUTHlSpAuToNRIXu0hfkNbk3lVXOT1HHqutRmMYV+cBV2pTLOlH930MSXkuVZQSlnnUoHIMDp3YTAw=="
+  "signature": "y2Se87mUc1+62JN5ovnpKCQ9F30m6UGMlFcJ4FTs1RV319qwmJLcFBOZcf7lNJfSly45vpEQHOfe9hyQI0GfCg=="
 }
