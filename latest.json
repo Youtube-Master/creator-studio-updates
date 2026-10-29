@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.6.6",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.6.6.exe",
-    "sha256": "b52a65edad3ac283ed5ebc9d7dbe7ba1bfa13097ddfcf6e58713aa787c52a592",
-    "size": 57218161,
-    "notes": "AI 플레이리스트: Kie 오류(422 Please enter callBackUrl) 고침 — 곡·그림 요청에 결과 알림 주소를 넣음",
-    "published_at": "2026-10-29T09:24:41Z"
+    "version": "0.7.0",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.0.exe",
+    "sha256": "bb681b1258eb70a0a8f0c001d2acec3077bf561184074b29cea32ec09e360025",
+    "size": 57296746,
+    "notes": "자동 업로드 탭에 '업로드 관리'(여러 채널 대기열: 기간·하루 편수·시·분 예약, 예약 프리셋, 제목·설명 준비와 표에서 고치기, 미리보기 그림, 한 번에 올리기, AI로 문제 해결)와 '채널 수익'(스튜디오에서 날짜별 조회수·수익 읽기, 일수익·이번 달 수익, 일별 기록, 엑셀 저장, 메모) 추가. 메뉴·버튼에 이모지.",
+    "published_at": "2026-10-29T11:25:57Z"
   },
-  "signature": "+9+YMMsuGUsUH/pN7b/qTJb4YZBxSNVUVarhjxxtoKnkg7ERVh/hkPvp2CMWDGOLmJO6PoyLtiqdYj8jLPXeBg=="
+  "signature": "mxPu57BMdqxonBI/OpEYwy/C2NPEMq6fNf3KG0HcIys3eOQtnLbkiiIn8XdIgdzxULxno/UyKHFYP9mmtjGRBw=="
 }
