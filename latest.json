@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.4",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.4.exe",
-    "sha256": "7aae2b56bfda37dba431a3aecce85fccd8340fce645ff2411c25442ff85dd185",
-    "size": 64435672,
-    "notes": "AI 플레이리스트: 하루 한 편씩 매일 정해진 시각(기본 18:00)에 예약 공개(한 번에 여러 편 만들어도 날마다 하나씩, 프리셋 창에서 시각 바꾸기), 영상 길이는 목표보다 3~10% 길게(60분 → 1시간 2~10분쯤)",
-    "published_at": "2026-10-29T15:38:23Z"
+    "version": "0.7.5",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.5.exe",
+    "sha256": "19918014cb135cfd7b855b2fa73e2e0d7d730e0d64184b0cfe0616a57c7e2a43",
+    "size": 64513510,
+    "notes": "AI 플레이리스트: 다 만든 영상은 구글 드라이브로 옮기고 PC에는 안 남김(자동 업로드도 드라이브 영상을 그대로), 멈추거나 PC 공간이 모자라 끊겨도 '이어서 만들기'로 이미 만든 곡 그대로 이어서, 영상 만들기 전 남은 공간 확인, 스튜디오 'AI 사용'은 플레이리스트만 '예', Claude 키가 가려진 값이면 미리 알림",
+    "published_at": "2026-10-29T17:24:03Z"
   },
-  "signature": "y2Se87mUc1+62JN5ovnpKCQ9F30m6UGMlFcJ4FTs1RV319qwmJLcFBOZcf7lNJfSly45vpEQHOfe9hyQI0GfCg=="
+  "signature": "AeS5sAsXlNkoxceSVnHkNhIY2wg0ziMpDfxOi6UAgsiq1m591plpdisPsnk4qGKta260o78FLR0oeTfKEY6ICg=="
 }
