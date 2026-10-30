@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.6",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.6.exe",
-    "sha256": "b1e501b0f615670504df71990de96750d0f95a4062aa8999161af9c1b076f013",
-    "size": 64512064,
-    "notes": "채널 수익 읽기: 검은 화면이 뜨던 예비 주소를 빼고 '고급 모드 → 분류 → 날짜' 메뉴로만 엶. 고급 모드 빈 화면이면 새로 고침 한 번, 표 위 '날짜' 탭 화면도 지원, 막히면 단계 이름 표시.",
-    "published_at": "2026-10-30T05:06:57Z"
+    "version": "0.7.7",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.7.exe",
+    "sha256": "34c5cf508e5205ac16705f33bcc01dc69b46c73eeb63b2e393cb21f6c9f9e502",
+    "size": 64520297,
+    "notes": "채널 크롬이 이미 열려 있으면(새 창 대신 탭으로 열림) 그 창을 그대로 써서 채널 수익 읽기·업로드가 멈추지 않음. 끝나면 앱이 연 탭만 닫음. '콘텐츠' 목록의 '날짜' 정렬 칸은 누르지 않음.",
+    "published_at": "2026-10-30T05:35:27Z"
   },
-  "signature": "TktBLi2lGJnpHvWyP5xjT1K3yrO3fXSTu0kaut4yE93ua10sBFMt/lWSWaAugBQyerw9VYRJzAopL52oJDBWCA=="
+  "signature": "6JZdQLUKqOniHxzhEbIQaWzFabGTE43bqDRKhLQUjwWlOj2Ng6FTbQY1Oa8HrTqJPDCBTVZ4VZZrjq6B5wJqAg=="
 }
