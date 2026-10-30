@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.11",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.11.exe",
-    "sha256": "9a0ee3244083359a4564b16f80a50ba6bd3bfaaa2cf083bb239387f9666d2a53",
-    "size": 64529332,
-    "notes": "채널 수익 읽기 달력 고침: 스튜디오에 아직 데이터가 없는 날(PC로는 어제여도 흐리게 막힌 날)은 건너뛰고, 달력을 한 칸씩 굴려 날짜를 지나치지 않게, 날짜 칸이 어느 달인지 달 제목 위치로 구분. 처음 달력 모습을 로그에 남김",
-    "published_at": "2026-10-30T17:08:23Z"
+    "version": "0.7.12",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.12.exe",
+    "sha256": "f4d8a197953e979bb466475d3efd79ebf279e8fb832669d821d68918517bbbfd",
+    "size": 64529431,
+    "notes": "채널 수익 읽기 빠르게: 화면 정보를 보이는 부분만 읽고(긴 분석 페이지의 화면 밖 칸을 건너뜀), 방금 읽은 정보를 다시 써서 하루 읽는 횟수를 15번쯤에서 6번쯤으로 줄임. 보이는 부분만으로 못 찾으면 자동으로 전체를 읽음",
+    "published_at": "2026-10-30T17:39:43Z"
   },
-  "signature": "6z+hasJtXlie/g/OFPTKRkWtzjFycDhTPSKNn3YM+F7LzXB+E+8NSk2ozRZdwQ7NPD1tOfTzisanNbQJRR8aAQ=="
+  "signature": "kO8l+k3Hw3LdMB4cC4BerAXsUT6yiMiZuMcgE0NMjvuLBhEZHQ6iWRgyfrXu8s5kNCi5njohonEfeBavWACeDw=="
 }
