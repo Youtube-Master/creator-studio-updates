@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.12",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.12.exe",
-    "sha256": "f4d8a197953e979bb466475d3efd79ebf279e8fb832669d821d68918517bbbfd",
-    "size": 64529431,
-    "notes": "채널 수익 읽기 빠르게: 화면 정보를 보이는 부분만 읽고(긴 분석 페이지의 화면 밖 칸을 건너뜀), 방금 읽은 정보를 다시 써서 하루 읽는 횟수를 15번쯤에서 6번쯤으로 줄임. 보이는 부분만으로 못 찾으면 자동으로 전체를 읽음",
-    "published_at": "2026-10-30T17:39:43Z"
+    "version": "0.7.13",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.13.exe",
+    "sha256": "ab45efcd52a39f4c87b8149dfc3eb3ae537a5d60e6d1eeb26d5936933508b62b",
+    "size": 64555103,
+    "notes": "왼쪽 메뉴에서 '프로젝트'를 빼고 '업로드 대기열' 위에 '노션' 추가. 노션 연결 키와 페이지만 넣으면 그 페이지 안에 아이디어 메모·업로드 기록·일별 수익 표를 만들고, 앱에 적은 아이디어 메모를 노션에 저장, 업로드 기록과 채널별 일별 수익을 10분마다 노션 표로 보냄(바뀐 줄만)",
+    "published_at": "2026-10-30T18:06:22Z"
   },
-  "signature": "kO8l+k3Hw3LdMB4cC4BerAXsUT6yiMiZuMcgE0NMjvuLBhEZHQ6iWRgyfrXu8s5kNCi5njohonEfeBavWACeDw=="
+  "signature": "NH75vK8AFlG9Caf9USrisaRM8VFs900TRXrM46bLEtmFop76rbWhEDKzPjYfYp8bkQlnNdWenxUn6xeOg9jmBg=="
 }
