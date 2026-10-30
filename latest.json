@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.8",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.8.exe",
-    "sha256": "9817c6854c201b5608687caa58633c011659f71e76a2e9769c828f6e462a5c9d",
-    "size": 64519444,
-    "notes": "채널 수익을 하루씩 읽음: 분석 개요의 기간 ▾ → 사용자설정 → 달력에서 그날 → 적용 → 조회수·예상 수익. 처음엔 이번 달 전체, 다음부터는 새 날짜와 최근 3일만 읽어서 빠름. 다 읽으면 기간을 지난 28일로 되돌림.",
-    "published_at": "2026-10-30T15:01:53Z"
+    "version": "0.7.9",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.9.exe",
+    "sha256": "aebede095f4ece73c6db717d607a64a1e83b5d1c3d3e6ac5056235598a3246bc",
+    "size": 64520304,
+    "notes": "채널 수익 읽기가 'NULL COM pointer access' 오류로 멈추던 문제 고침. 달력 칸을 못 찾으면 앞뒤 날짜 칸에 같은 날을 직접 입력. 중간에 오류가 나도 읽은 날은 저장. AI 플레이리스트 제목 옆에 '＋ 바로가기' 버튼.",
+    "published_at": "2026-10-30T15:52:15Z"
   },
-  "signature": "/hDph38tVJqPYiLZOUd9EPGC8+XDE+s+SGUp/KHmQ/b5apyUi+9fYkc9NQY/Crc6M+K531duli5WCff0ZCQ/Dw=="
+  "signature": "kcpTUub/KGgcQGNnbLVDr7nMW1uZBWCwbN8dRKGF4fn0X9ETLqpb3mVTRAP/KXnWa8gHRjiL++HufBl1+q1CAg=="
 }
