@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.7",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.7.exe",
-    "sha256": "34c5cf508e5205ac16705f33bcc01dc69b46c73eeb63b2e393cb21f6c9f9e502",
-    "size": 64520297,
-    "notes": "채널 크롬이 이미 열려 있으면(새 창 대신 탭으로 열림) 그 창을 그대로 써서 채널 수익 읽기·업로드가 멈추지 않음. 끝나면 앱이 연 탭만 닫음. '콘텐츠' 목록의 '날짜' 정렬 칸은 누르지 않음.",
-    "published_at": "2026-10-30T05:35:27Z"
+    "version": "0.7.8",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.8.exe",
+    "sha256": "9817c6854c201b5608687caa58633c011659f71e76a2e9769c828f6e462a5c9d",
+    "size": 64519444,
+    "notes": "채널 수익을 하루씩 읽음: 분석 개요의 기간 ▾ → 사용자설정 → 달력에서 그날 → 적용 → 조회수·예상 수익. 처음엔 이번 달 전체, 다음부터는 새 날짜와 최근 3일만 읽어서 빠름. 다 읽으면 기간을 지난 28일로 되돌림.",
+    "published_at": "2026-10-30T15:01:53Z"
   },
-  "signature": "6JZdQLUKqOniHxzhEbIQaWzFabGTE43bqDRKhLQUjwWlOj2Ng6FTbQY1Oa8HrTqJPDCBTVZ4VZZrjq6B5wJqAg=="
+  "signature": "/hDph38tVJqPYiLZOUd9EPGC8+XDE+s+SGUp/KHmQ/b5apyUi+9fYkc9NQY/Crc6M+K531duli5WCff0ZCQ/Dw=="
 }
