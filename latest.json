@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.5",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.5.exe",
-    "sha256": "19918014cb135cfd7b855b2fa73e2e0d7d730e0d64184b0cfe0616a57c7e2a43",
-    "size": 64513510,
-    "notes": "AI 플레이리스트: 다 만든 영상은 구글 드라이브로 옮기고 PC에는 안 남김(자동 업로드도 드라이브 영상을 그대로), 멈추거나 PC 공간이 모자라 끊겨도 '이어서 만들기'로 이미 만든 곡 그대로 이어서, 영상 만들기 전 남은 공간 확인, 스튜디오 'AI 사용'은 플레이리스트만 '예', Claude 키가 가려진 값이면 미리 알림",
-    "published_at": "2026-10-29T17:24:03Z"
+    "version": "0.7.6",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.6.exe",
+    "sha256": "b1e501b0f615670504df71990de96750d0f95a4062aa8999161af9c1b076f013",
+    "size": 64512064,
+    "notes": "채널 수익 읽기: 검은 화면이 뜨던 예비 주소를 빼고 '고급 모드 → 분류 → 날짜' 메뉴로만 엶. 고급 모드 빈 화면이면 새로 고침 한 번, 표 위 '날짜' 탭 화면도 지원, 막히면 단계 이름 표시.",
+    "published_at": "2026-10-30T05:06:57Z"
   },
-  "signature": "AeS5sAsXlNkoxceSVnHkNhIY2wg0ziMpDfxOi6UAgsiq1m591plpdisPsnk4qGKta260o78FLR0oeTfKEY6ICg=="
+  "signature": "TktBLi2lGJnpHvWyP5xjT1K3yrO3fXSTu0kaut4yE93ua10sBFMt/lWSWaAugBQyerw9VYRJzAopL52oJDBWCA=="
 }
