@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.14",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.14.exe",
-    "sha256": "767fe8d36f0a47d9e9974d80e85ea609b104a45d8de422d15160daa4538c536e",
-    "size": 64559416,
-    "notes": "제작 라이브러리 'Claude 프로젝트 열기'가 새 형식의 Claude 프로젝트 주소(chan_… ID, claude.ai/code/… 등)도 받아요. 연결 설정 창에 프로젝트 주소 얻는 방법 안내를 넣었어요.",
-    "published_at": "2026-10-30T18:43:56Z"
+    "version": "0.7.15",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.15.exe",
+    "sha256": "db483bc46956a13ca6ec5f79be0bbe3861fe73bfccbc1596377c4ead26a48420",
+    "size": 64571165,
+    "notes": "채널 수익을 뒤에서 읽어요(기본 켜짐). 마우스·키보드를 움직이지 않고, 채널 크롬 프로필의 새 창을 화면 오른쪽 아래에 띄워 버튼을 접근성 기능으로 눌러 읽어요. 읽는 동안 PC를 그대로 쓰셔도 되고, 그 크롬 창만 최소화하거나 누르지 마세요. 안 되면 채널 수익 화면에서 '뒤에서 읽기'를 끄면 예전 마우스 방식으로 읽어요.",
+    "published_at": "2026-10-31T05:42:17Z"
   },
-  "signature": "jgaqWCEqZ9qlnI0gJy4a/YGDBn8EkSButrimUNxPWI1hIrh+kOLfb1NKu08aXwbED+p/yDfehyGCTcaNucr3Bw=="
+  "signature": "nkYFn74Iug/A7a6IZuBoSzKZPXgsAH7W/DqUspFiiUxTOnvDrWJfUgH8hVNFTXj3ijDjav9HcXIqHPgizOnoAA=="
 }
