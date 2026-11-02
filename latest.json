@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.17",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.17.exe",
-    "sha256": "0ce85648b3685a6bb1f7d4cd1bcea627e2f815bcae322c3fefa58c667529635e",
-    "size": 64723267,
-    "notes": "휴대폰 연결이 안 될 때: '🛡️ 방화벽 열기'(관리자 확인 한 번으로 휴대폰 연결만 허용, 켤 때 먼저 물어봄), QR이 안 되면 주소를 치고 6자리 연결 번호로 연결, '🖥️ PC에서 열어 보기', 휴대폰에서 화면이 열렸는지 PC에 표시.",
-    "published_at": "2026-11-02T11:51:20Z"
+    "version": "0.7.18",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.18.exe",
+    "sha256": "6ae3da90d83712aa225bcc52c18be1c4fb1b5e591a613ee1fd6372af9d2b1f67",
+    "size": 64756391,
+    "notes": "💬 카톡 중계 메뉴 추가: 읽는 방 여러 개 → 디스코드 웹훅 + 내가 운영하는 보내는 방, 쿠팡 링크를 내 파트너스 링크로 바꾸고 파트너스 문구 자동 첨부, 새 보내는 방은 처음 한 번 확인",
+    "published_at": "2026-11-02T12:23:15Z"
   },
-  "signature": "ttSvr/yPI3WXo/iojzEwDe1xluh/t8u4fGP86slkoY+mX4EbHaDrMZ7331VaFJ71yMnpubaOZwNnoiYo/4UcBw=="
+  "signature": "91zWqwVOASwQF88je502pziZ7S04yE4/eC6iv5uZz2xQXiFkBxWB0syCOIExjJJ3FoakkXDrZRFgyxfOHwxaCg=="
 }
