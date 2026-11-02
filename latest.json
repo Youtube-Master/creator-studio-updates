@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.16",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.16.exe",
-    "sha256": "6bf82a74a6372ca99a6c2b107dcffaff07cc34383f513f474965b8f490a3a017",
-    "size": 64716815,
-    "notes": "휴대폰 연결: PC 왼쪽 메뉴 '📱 휴대폰 연결'을 켜고 QR을 찍으면 같은 와이파이의 휴대폰(아이폰·안드로이드)에서 제작 라이브러리 지침 보기·Claude 프로젝트 열기, 영상 보내서 예약, 업로드 기록(지금 올리기·취소·다시·제목 고르기), 채널 수익 보기·새로 읽기, 아이디어 메모(노션)를 할 수 있어요. 업로드와 수익 읽기는 PC가 지금처럼 해요.",
-    "published_at": "2026-10-31T19:09:06Z"
+    "version": "0.7.17",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.17.exe",
+    "sha256": "0ce85648b3685a6bb1f7d4cd1bcea627e2f815bcae322c3fefa58c667529635e",
+    "size": 64723267,
+    "notes": "휴대폰 연결이 안 될 때: '🛡️ 방화벽 열기'(관리자 확인 한 번으로 휴대폰 연결만 허용, 켤 때 먼저 물어봄), QR이 안 되면 주소를 치고 6자리 연결 번호로 연결, '🖥️ PC에서 열어 보기', 휴대폰에서 화면이 열렸는지 PC에 표시.",
+    "published_at": "2026-11-02T11:51:20Z"
   },
-  "signature": "Sxd2e07+dufEgsH29busf1t7Inep3savmn4bwla+Inh8joVvHhIHpph6wjV6oukfKnll0Hk2WJwf6kkI5sBuCQ=="
+  "signature": "ttSvr/yPI3WXo/iojzEwDe1xluh/t8u4fGP86slkoY+mX4EbHaDrMZ7331VaFJ71yMnpubaOZwNnoiYo/4UcBw=="
 }
