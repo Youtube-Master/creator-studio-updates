@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.19",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.19.exe",
-    "sha256": "5f89be6739a9bae88e9e82ca205c106110f7fff303d4406118326b201e2f1c03",
-    "size": 64785303,
-    "notes": "카톡 중계: 연결 정보에 제휴 링크 키 칸 추가(토스쇼핑 쉐어링크·네이버 브랜드커넥트·무신사 큐레이터, 다 넣으면 ✓). 보내는 방엔 말투를 Claude로 조금 바꿔서 보내기(상품명·가격·링크·수수료 문구는 그대로, 숫자·링크가 빠지면 원문 그대로).",
-    "published_at": "2026-11-03T03:31:35Z"
+    "version": "0.7.20",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.20.exe",
+    "sha256": "e9978f90c401ca8290e1a6daa201748f1d36e655ed4f7aec63d584c0cece8536",
+    "size": 64790973,
+    "notes": "카톡 중계: 무신사 큐레이터 링크를 내 큐레이터 링크로 자동 변환(처음 한 번 '무신사 로그인 창 열기'로 로그인, 숨긴 크롬에서 '링크 생성'을 눌러 받아 옴, 한 번 만든 상품은 저장). 바꾼 글엔 무신사 큐레이터 수수료 문구를 붙임. '바꿔 보기'로 시험 가능.",
+    "published_at": "2026-11-03T19:42:15Z"
   },
-  "signature": "U242E0E+5qr69yB5A0rjlx/J6fqxcb3qGP6Tp5RTFJIdTBsUueJNezjMbndiuCsx53TUfG9bAlIS2CxzzPOSCg=="
+  "signature": "0bIsIONYcf2E3YBHqBqEz6GcOu0i6Yk41WYdaSiegCw5P52CWd7R2ZrpjxmMtzSpaEaqeoeGxM84JVdovGOYBQ=="
 }
