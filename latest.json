@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.18",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.18.exe",
-    "sha256": "6ae3da90d83712aa225bcc52c18be1c4fb1b5e591a613ee1fd6372af9d2b1f67",
-    "size": 64756391,
-    "notes": "💬 카톡 중계 메뉴 추가: 읽는 방 여러 개 → 디스코드 웹훅 + 내가 운영하는 보내는 방, 쿠팡 링크를 내 파트너스 링크로 바꾸고 파트너스 문구 자동 첨부, 새 보내는 방은 처음 한 번 확인",
-    "published_at": "2026-11-02T12:23:15Z"
+    "version": "0.7.19",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.19.exe",
+    "sha256": "5f89be6739a9bae88e9e82ca205c106110f7fff303d4406118326b201e2f1c03",
+    "size": 64785303,
+    "notes": "카톡 중계: 연결 정보에 제휴 링크 키 칸 추가(토스쇼핑 쉐어링크·네이버 브랜드커넥트·무신사 큐레이터, 다 넣으면 ✓). 보내는 방엔 말투를 Claude로 조금 바꿔서 보내기(상품명·가격·링크·수수료 문구는 그대로, 숫자·링크가 빠지면 원문 그대로).",
+    "published_at": "2026-11-03T03:31:35Z"
   },
-  "signature": "91zWqwVOASwQF88je502pziZ7S04yE4/eC6iv5uZz2xQXiFkBxWB0syCOIExjJJ3FoakkXDrZRFgyxfOHwxaCg=="
+  "signature": "U242E0E+5qr69yB5A0rjlx/J6fqxcb3qGP6Tp5RTFJIdTBsUueJNezjMbndiuCsx53TUfG9bAlIS2CxzzPOSCg=="
 }
