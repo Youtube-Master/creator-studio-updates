@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.21",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.21.exe",
-    "sha256": "9aae871129528efcaf317fe15a72888213e9404ac71fba1115ef0bda5816aaf3",
-    "size": 64806804,
-    "notes": "카톡 중계: 남의 네이버 쇼핑 커넥트 링크(naver.me, 스토어 상품 주소)를 내 링크로 자동 변환(숨긴 크롬에서 '링크 발급', 처음 한 번 '네이버 로그인 창 열기'로 로그인), 쇼핑 커넥트 대가성 문구 자동 첨부, '바꿔 보기'로 시험. 무신사·네이버 링크가 한 글에 여러 개여도 이어서 변환.",
-    "published_at": "2026-11-03T20:31:53Z"
+    "version": "0.7.22",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.22.exe",
+    "sha256": "bacd5cecfa60cfe8b782fffc9774fbbc48b4a43d1dbfdc00a1902c2f3fd26987",
+    "size": 64815744,
+    "notes": "카톡 중계: 무신사·네이버 링크용 앱 크롬이 로그인 창을 닫거나 다시 켜도 로그인을 유지(지난 세션 이어서 켜기, 예전 창은 안 뜸). 무신사 로그인 안내에 '자동 로그인' 체크 추가.",
+    "published_at": "2026-11-04T09:40:09Z"
   },
-  "signature": "JIMZwE26eMyT56ehAbyS4KNhYqFlmjTsSq/MAx1kZUEN4NTagpfWhcmOL/gxgyE7Pb+xdJ7Qghn7+tORAIMzCw=="
+  "signature": "buzjMhzz5WGOLjlJ5u3aJjDWSp1xEfJe6rRNthOj93tQd+k1DN8DeD2Y1fVfoMrmNoNX2YdyXOzEwYqMaKNIBw=="
 }
