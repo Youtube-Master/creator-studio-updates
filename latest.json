@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.26",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.26.exe",
-    "sha256": "d046a0688610ef3ad17ae2c381b2a877b99c0d2f692ae6f416242cd10833ce8a",
-    "size": 64865952,
-    "notes": "새 메뉴 '🗂 카드뉴스': 주제만 넣으면 일본 인스타 誕生月占い 랭킹 카드뉴스(일본어 존댓말 문구 12개 + 캡션 + 한국어 뜻)를 만들어요. 귀여운 캐릭터 그림은 제미나이(앱 크롬, 처음 한 번 로그인)로 뽑고 안 되면 Kie 나노바나나 프로로 뽑아요. 8초 릴스 mp4와 표지도 만들고, 릴스 전체 화면·프로필 그리드에서 옆이 잘리지 않게 여백을 뒀어요.",
-    "published_at": "2026-11-04T12:06:31Z"
+    "version": "0.7.27",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.27.exe",
+    "sha256": "e02d5d93fe8f6b0a2305f399084fcd14051dbfc7a5a067c897ad0a3cb3912d2f",
+    "size": 64858094,
+    "notes": "카드뉴스 '✨ 원클릭 만들기': 주제와 틀을 비워 두고 누르면 AI가 틀(생일 달·별자리·띠 순위, 「몇 번 파?」 12개 고르기)과 주제를 골라 문구·그림·카드·8초 릴스·표지까지 한 번에 만들어요. 전에 만든 주제와 안 겹치게 골라요.",
+    "published_at": "2026-11-04T12:37:56Z"
   },
-  "signature": "i3ljYDsOQ+i7rQd9naUnvorRAZIi7wrjcxFKiFpQycutw5wDNpozrxvQTYel0gk9WVV4x5XVJcg927jSgwgjDw=="
+  "signature": "o+mAAX/ak63O1obbwwIqtA4rq9kZklT5rZnkRsYLSI1RarTpLcjLrUmBUMjg/TSjnTFAxIUJk3jEdzP9t/63Bw=="
 }
