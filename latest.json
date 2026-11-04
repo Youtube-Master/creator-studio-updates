@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.27",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.27.exe",
-    "sha256": "e02d5d93fe8f6b0a2305f399084fcd14051dbfc7a5a067c897ad0a3cb3912d2f",
-    "size": 64858094,
-    "notes": "카드뉴스 '✨ 원클릭 만들기': 주제와 틀을 비워 두고 누르면 AI가 틀(생일 달·별자리·띠 순위, 「몇 번 파?」 12개 고르기)과 주제를 골라 문구·그림·카드·8초 릴스·표지까지 한 번에 만들어요. 전에 만든 주제와 안 겹치게 골라요.",
-    "published_at": "2026-11-04T12:37:56Z"
+    "version": "0.7.28",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.28.exe",
+    "sha256": "309a9d914fb8c7435033791015d6f9a5c627af75b084685ea54b83f3ceb4781d",
+    "size": 75204809,
+    "notes": "카드뉴스 새 기능: ① 만든 카드뉴스(카드·8초 릴스·표지·캡션)를 디스코드 웹훅·텔레그램으로 자동 보내기 ② '📱 인스타(폰) 올리기' 탭 — 안드로이드 폰을 USB·무선 디버깅으로 연결하면 폰 인스타 앱으로 릴스와 캡션을 올려요(처음엔 '공유' 앞에서 멈추는 테스트 모드) ③ 캡션을 일본어·한국어·영어 칸으로, 요즘 SNS 말투로 게시물에 맞게 자동 작성('✍️ 캡션 새로 쓰기').",
+    "published_at": "2026-11-04T13:43:55Z"
   },
-  "signature": "o+mAAX/ak63O1obbwwIqtA4rq9kZklT5rZnkRsYLSI1RarTpLcjLrUmBUMjg/TSjnTFAxIUJk3jEdzP9t/63Bw=="
+  "signature": "rZH1xGJAiibmAfRL2AWmytZlUZWM5FK+CrQh9oKfq1kc82hZ4b8EP6FQ88D6R14OYnjHXSR4weuV8we2GZLaCA=="
 }
