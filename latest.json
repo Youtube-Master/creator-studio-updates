@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.24",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.24.exe",
-    "sha256": "96dd43d3034eda8d75103896f54502ecbd6f582114caa762398b65406ab4b6cc",
-    "size": 64825931,
-    "notes": "새 메뉴 '🧵 쓰레드 글': 예시 글(예: 해장일지)로 말투·구성을 분석하고, 그 스타일로 새 쓰레드 글을 여러 개 만들어 복사할 수 있어요(설정의 Claude API 키 사용).",
-    "published_at": "2026-11-04T10:35:45Z"
+    "version": "0.7.25",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.25.exe",
+    "sha256": "463f58bb11a2df5e74aef14fecbdc53a315cf56bb8e8efaa5f336d190b2fd76f",
+    "size": 64827655,
+    "notes": "카톡 중계: '스크립트' 칸이 바탕화면 카톡중계 폴더의 예전 kakao_relay.ps1을 가리키면 앱에 들어 있는 최신 스크립트로 자동으로 바꿔요(예전 스크립트엔 무신사·네이버 링크 바꾸기와 테스트 전송이 없어서 링크를 그대로 보냈음). 바꾸면 기록에 한 줄 알려 줘요.",
+    "published_at": "2026-11-04T10:57:33Z"
   },
-  "signature": "8F+25NA7jVMpEU3PUuTwJ5pSxXMAj4G2ubSCewcRjGMUU5FinMU88lWKpjmVA+tkgjFQ/Kz2k87+TOKED1evBQ=="
+  "signature": "xWLALGw1TcrOaos95msw7qaeY0zBHcOZjukvpSItHiVDZgTbfghMITC1p5a2bI8XUTmNsytrNbn7rHMVqlBhCw=="
 }
