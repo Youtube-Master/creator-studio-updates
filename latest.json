@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.22",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.22.exe",
-    "sha256": "bacd5cecfa60cfe8b782fffc9774fbbc48b4a43d1dbfdc00a1902c2f3fd26987",
-    "size": 64815744,
-    "notes": "카톡 중계: 무신사·네이버 링크용 앱 크롬이 로그인 창을 닫거나 다시 켜도 로그인을 유지(지난 세션 이어서 켜기, 예전 창은 안 뜸). 무신사 로그인 안내에 '자동 로그인' 체크 추가.",
-    "published_at": "2026-11-04T09:40:09Z"
+    "version": "0.7.23",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.23.exe",
+    "sha256": "3f2e68b2c1e650081b918bf6f92b75f99ca43bae712ef201c2928266aa0a179c",
+    "size": 64818706,
+    "notes": "카톡 중계: 창이 작아도 연결 정보 칸이 아래 버튼·기록을 덮지 않음(오른쪽 세로 줄 전체, 넘치면 칸 안에서 스크롤, 왼쪽도 스크롤). 무신사·네이버 칸에 '테스트 전송' 추가(넣은 링크로 시험 글을 실제 중계처럼 내 링크·수수료 문구·말투로 바꿔 켜 둔 보내는 방에만 보냄).",
+    "published_at": "2026-11-04T10:14:12Z"
   },
-  "signature": "buzjMhzz5WGOLjlJ5u3aJjDWSp1xEfJe6rRNthOj93tQd+k1DN8DeD2Y1fVfoMrmNoNX2YdyXOzEwYqMaKNIBw=="
+  "signature": "pHuZW3HAaCoMOS3CAHanw1tnbkrX+n0LfRf/CAXGt4LuktMPXMqUfewBPeITnNItVN9fIEzHQQw8cVQ3bdIaAQ=="
 }
