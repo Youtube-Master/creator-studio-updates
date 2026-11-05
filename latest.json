@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.31",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.31.exe",
-    "sha256": "11b06bc01aacfe8c5192498fc6f5ac05a778f16e3b1437afa613a893e09dd631",
-    "size": 75321571,
-    "notes": "고침: 카드뉴스 '링크로 만들기' 등에서 'Claude API 오류(400) minItems … not supported'가 나던 문제(앱이 Claude에 보내는 답 형식에서 개수 제한을 설명 글로 옮김. 카드뉴스·제목 추천·AI 플리·쓰레드 글 모두). 카드뉴스 12칸이 모자라게 오면 한 번 더 묻고, Claude 응답 기다리는 시간을 늘림.",
-    "published_at": "2026-11-05T02:23:06Z"
+    "version": "0.7.32",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.32.exe",
+    "sha256": "f1ba1edaa03addf716ff7ea9af35d1be445ca66d8f4c5ec549a31fe10cb052d4",
+    "size": 75355297,
+    "notes": "카드뉴스: 고양이·강아지 캐릭터 번갈아 그리기, 인스타 투표 문구, '📈 성과' 탭(지난 게시물 성과 학습), 한국어 해석 PNG(카드·캡션·투표)",
+    "published_at": "2026-11-05T04:49:38Z"
   },
-  "signature": "O+DvWgK/hnwFlNX3Vok0sBlRn8G6RIq1lbwM6cBEQBqA0X0pGOWeT/KxXozxWcnsjAcB+yMMw5e3k5X6/FvmAg=="
+  "signature": "kUHaf7jJMcyyZnCGyIyhGib4GEF/B/OU3XYn7wxJyfAQSFFTJNguU/s9bfg+/AoosU6LXbgP4QM92Z3PhVMwDw=="
 }
