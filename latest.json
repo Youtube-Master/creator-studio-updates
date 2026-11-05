@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.32",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.32.exe",
-    "sha256": "f1ba1edaa03addf716ff7ea9af35d1be445ca66d8f4c5ec549a31fe10cb052d4",
-    "size": 75355297,
-    "notes": "카드뉴스: 고양이·강아지 캐릭터 번갈아 그리기, 인스타 투표 문구, '📈 성과' 탭(지난 게시물 성과 학습), 한국어 해석 PNG(카드·캡션·투표)",
-    "published_at": "2026-11-05T04:49:38Z"
+    "version": "0.7.33",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.33.exe",
+    "sha256": "d74d98b4dea3e0e5bd853be6d5e4c72a485138c77db3b1ee99a019f77796bb58",
+    "size": 75399306,
+    "notes": "카드뉴스: 링크형은 원본 칸 수 그대로(5칸·8칸 등), A vs B 틀, 원본 그림 종류 따라 그리기, 12번 칸 빈 그림 고침, 좋은 예시 기억. 검색 키워드 3~5개(웹 검색으로 확인)·해시태그 3~5개, 고정댓글 + 대안(한국어 번역), 텔레그램은 캡션 .txt → card_comment.txt → 이미지 순서로 보내기.",
+    "published_at": "2026-11-05T10:36:17Z"
   },
-  "signature": "kUHaf7jJMcyyZnCGyIyhGib4GEF/B/OU3XYn7wxJyfAQSFFTJNguU/s9bfg+/AoosU6LXbgP4QM92Z3PhVMwDw=="
+  "signature": "+mJj4SssW7yc7OqcVy4Cf4H0rWAiHf7hh13ye9b22QMYDLjvWzmSFT3/O+GXRJgWic01Ekz7nlyDbdG2bCpWCQ=="
 }
