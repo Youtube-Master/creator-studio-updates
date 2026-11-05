@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.29",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.29.exe",
-    "sha256": "766fc5b635b937bf4f6c85e83d58df440efcade4fb320dda333c56aab8d60533",
-    "size": 75268040,
-    "notes": "① 카드뉴스 '새 카드뉴스'에서 '🎲 랜덤 생성형 / 🔗 링크형' 고르기: 반응 좋았던 게시물 링크와 화면 캡처(📋 붙여넣기)를 넣으면 틀은 그대로 두고 내용은 겹치지 않게 새로 쓰거나 일본 정서로 현지화(레퍼런스 분석 함께 저장) ② 카드뉴스 '🔎 자동 수집' 탭: 인스타 공식 API로 해시태그 인기 게시물·벤치마킹 계정 게시물을 모아 반응 좋은 순으로 링크형 카드뉴스 자동 생성(키워드→일본 해시태그, 매일 자동) ③ 자동 업로드 '🖱 마우스' 탭: 마우스 경로·클릭 무작위 세기 슬라이더 10개.",
-    "published_at": "2026-11-04T17:10:32Z"
+    "version": "0.7.30",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.30.exe",
+    "sha256": "56e35efab8c120d5890b4003e4b2ba8240aa26fe279818b1b41e465acc3b9f95",
+    "size": 75324342,
+    "notes": "① 카드뉴스 링크형: 링크만 넣으면 앱이 평소 크롬으로 게시물을 직접 열어 화면(여러 장은 넘겨 가며, 릴스는 몇 초 간격)·캡션·좋아요 수·댓글을 보고 바로 만들기(캡처·메모는 선택) ② 제미나이 그림을 앱 전용 크롬 프로필 대신 평소 크롬의 고른 프로필(처음엔 '기본')에서 뽑기, 카드뉴스에 '크롬' 프로필 고르는 칸과 '🔑 제미나이 열어 보기' 버튼.",
+    "published_at": "2026-11-05T00:52:06Z"
   },
-  "signature": "e6oZ0tC+sg4bYorueTQdxWsMaCep+jefpLW7FO6L28o9XbsfpIL8I5UqKuXsq5uwJWKMrjMmDRVbs4KD9/BOBA=="
+  "signature": "/CJyEdwY4PKA5YdzyE3wyUy9l3BFxVw9iex5nUG76jPbXiaSEQiQJXxWrIhhbwpvhczeYzcJZgZxiwpsmJmFCg=="
 }
