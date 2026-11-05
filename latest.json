@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.30",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.30.exe",
-    "sha256": "56e35efab8c120d5890b4003e4b2ba8240aa26fe279818b1b41e465acc3b9f95",
-    "size": 75324342,
-    "notes": "① 카드뉴스 링크형: 링크만 넣으면 앱이 평소 크롬으로 게시물을 직접 열어 화면(여러 장은 넘겨 가며, 릴스는 몇 초 간격)·캡션·좋아요 수·댓글을 보고 바로 만들기(캡처·메모는 선택) ② 제미나이 그림을 앱 전용 크롬 프로필 대신 평소 크롬의 고른 프로필(처음엔 '기본')에서 뽑기, 카드뉴스에 '크롬' 프로필 고르는 칸과 '🔑 제미나이 열어 보기' 버튼.",
-    "published_at": "2026-11-05T00:52:06Z"
+    "version": "0.7.31",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.31.exe",
+    "sha256": "11b06bc01aacfe8c5192498fc6f5ac05a778f16e3b1437afa613a893e09dd631",
+    "size": 75321571,
+    "notes": "고침: 카드뉴스 '링크로 만들기' 등에서 'Claude API 오류(400) minItems … not supported'가 나던 문제(앱이 Claude에 보내는 답 형식에서 개수 제한을 설명 글로 옮김. 카드뉴스·제목 추천·AI 플리·쓰레드 글 모두). 카드뉴스 12칸이 모자라게 오면 한 번 더 묻고, Claude 응답 기다리는 시간을 늘림.",
+    "published_at": "2026-11-05T02:23:06Z"
   },
-  "signature": "/CJyEdwY4PKA5YdzyE3wyUy9l3BFxVw9iex5nUG76jPbXiaSEQiQJXxWrIhhbwpvhczeYzcJZgZxiwpsmJmFCg=="
+  "signature": "O+DvWgK/hnwFlNX3Vok0sBlRn8G6RIq1lbwM6cBEQBqA0X0pGOWeT/KxXozxWcnsjAcB+yMMw5e3k5X6/FvmAg=="
 }
