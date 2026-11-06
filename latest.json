@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.33",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.33.exe",
-    "sha256": "d74d98b4dea3e0e5bd853be6d5e4c72a485138c77db3b1ee99a019f77796bb58",
-    "size": 75399306,
-    "notes": "카드뉴스: 링크형은 원본 칸 수 그대로(5칸·8칸 등), A vs B 틀, 원본 그림 종류 따라 그리기, 12번 칸 빈 그림 고침, 좋은 예시 기억. 검색 키워드 3~5개(웹 검색으로 확인)·해시태그 3~5개, 고정댓글 + 대안(한국어 번역), 텔레그램은 캡션 .txt → card_comment.txt → 이미지 순서로 보내기.",
-    "published_at": "2026-11-05T10:36:17Z"
+    "version": "0.7.35",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.35.exe",
+    "sha256": "d28de719b621bc71f63f55df72fb7e24714597bbeb480ce9ca10ad76f055022b",
+    "size": 75416824,
+    "notes": "① 카톡 중계: 새 글이 있을 때만 복사하고, PC를 쓰는 동안(마우스·키보드)에는 기다렸다가 복사, 내가 복사한 건 덮어쓰지 않음 ② 카드뉴스 링크형: 원본 표 틀 그대로(1~16번 고르기로 펴지지 않게), 글씨·그림 더 크게, 왼쪽 칸 세로 스크롤 ③ '📱 인스타(폰) 올리기': '🔌 USB 디버깅 / 📶 무선 디버깅' 나눠 고르기, '🖐 터치 무작위 세기'(누르는 위치 퍼짐·누르기 사이 멈춤) — 자동 업로드의 '🖱 마우스' 탭은 빼고 유튜브 자동 업로드는 기본 움직임으로.",
+    "published_at": "2026-11-06T15:30:25Z"
   },
-  "signature": "+mJj4SssW7yc7OqcVy4Cf4H0rWAiHf7hh13ye9b22QMYDLjvWzmSFT3/O+GXRJgWic01Ekz7nlyDbdG2bCpWCQ=="
+  "signature": "ZtZfaqzeKlBU5WN36SIo2yjFxIzEXVvKycEyVuukHGsr+bjM865a5qjppn9eWno2x20wrrRZT5BRGBMHl5ewBg=="
 }
