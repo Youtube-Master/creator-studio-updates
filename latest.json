@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.41",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.41.exe",
-    "sha256": "e9657037ec4c7589f9220e70c18c0162f5594be0096cbd43580dfb036b62c144",
-    "size": 75494273,
-    "notes": "🗂 카드뉴스: 디스코드·텔레그램으로 보내는 캡션이 이제 언제나 일본어로 가요('올릴 때 쓸 언어'는 폰 인스타 올리기·caption.txt에만 적용). AI가 일본어 캡션 칸에 영어를 써 오면 일본어로 다시 써서 보내요.",
-    "published_at": "2026-11-07T15:39:11Z"
+    "version": "0.7.42",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.42.exe",
+    "sha256": "f7762f4da3c0f39ffb3096d0ac6fd9b8f0b7bdd6965d1c73c96d7c8824b9cbfa",
+    "size": 75498336,
+    "notes": "휴대폰 앱·웹에서 PC 원격 조작, PC 화면 열기, AI 플레이리스트, 카톡 중계를 쓸 수 있어요.",
+    "published_at": "2026-11-07T16:23:46Z"
   },
-  "signature": "03aXfwFnEVsvLDHJhFTcvgl6AaJ7dI/AlUoKDoWeGA2aSKVib27F8+D8W/Ey47YbIOFPdy41l0BiOK0lRcdHDg=="
+  "signature": "Mb3nOeYvQLxkcohStGVfsLPB+xPFaL0ditw3Q0YOYeCa32nV7yedAiGU910Qw/ckHWjdchiu6qltbm4TzuVSBA=="
 }
