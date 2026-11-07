@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.40",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.40.exe",
-    "sha256": "afcfd5e7c58c46e209d7b3763b5b47892844252048e0c40c2e62b4d7d5704715",
-    "size": 75493743,
-    "notes": "📱 휴대폰 연결: '🌍 밖에서도 쓰기' — 같은 와이파이가 아니어도 밖에서 휴대폰으로 PC를 써요(링크가 바뀌면 텔레그램으로 새 링크). 휴대폰 화면에 카드뉴스·쓰레드 글·PC 화면 보기, 큰 영상 나눠 보내기. 안드로이드 앱·아이폰 웹앱이 'PC에서 키 가져오기'로 키를 한 번에 가져가요.",
-    "published_at": "2026-11-07T13:40:39Z"
+    "version": "0.7.41",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.41.exe",
+    "sha256": "e9657037ec4c7589f9220e70c18c0162f5594be0096cbd43580dfb036b62c144",
+    "size": 75494273,
+    "notes": "🗂 카드뉴스: 디스코드·텔레그램으로 보내는 캡션이 이제 언제나 일본어로 가요('올릴 때 쓸 언어'는 폰 인스타 올리기·caption.txt에만 적용). AI가 일본어 캡션 칸에 영어를 써 오면 일본어로 다시 써서 보내요.",
+    "published_at": "2026-11-07T15:39:11Z"
   },
-  "signature": "NPyU7Y74u6JmnG4USlT3+gcrtemXl+6IhQ/g4NVDhO5oznUHXhFZ2yW+YtcZVWgulIWoI63AbiHh82nlx3d4Aw=="
+  "signature": "03aXfwFnEVsvLDHJhFTcvgl6AaJ7dI/AlUoKDoWeGA2aSKVib27F8+D8W/Ey47YbIOFPdy41l0BiOK0lRcdHDg=="
 }
