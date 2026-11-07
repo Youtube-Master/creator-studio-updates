@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.38",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.38.exe",
-    "sha256": "4effd4ec4f973f221329b4d74818d73f2bb688bb2ecf458389b5cb3e78053e25",
-    "size": 75461438,
-    "notes": "Claude API 400 오류(The compiled grammar is too large) 고침: 카드뉴스처럼 답 양식이 아주 큰 기능은 양식을 강제하지 않고 같은 양식을 글로 알려 줘서 다시 받아요. 카드뉴스 일본어 글꼴(Yu Gothic·Meiryo) 글자 위치 보정도 함께 들어갔어요.",
-    "published_at": "2026-11-07T12:48:27Z"
+    "version": "0.7.39",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.39.exe",
+    "sha256": "9766b1389dc712b7f089882736b4bc2e6f53ab1b73b9c855ee3780eee57416d6",
+    "size": 75470432,
+    "notes": "카드뉴스 그림 받기 오류([WinError 2] …crdownload 파일을 찾을 수 없음) 고침: 크롬이 받는 중인 임시 파일은 보지 않고, 다 받은 그림만 잡아요. 제미나이 쪽에서 어떤 문제가 생겨도 오류 창 대신 Kie로 그림을 그려요.",
+    "published_at": "2026-11-07T13:22:43Z"
   },
-  "signature": "AQqXO7i2SxSUaLVhhblkXw1Xf+1GEPUXVal5eaQzXFeLv6/wamycyxmxDdSJwMVbJc8VMC8u7m5ikrWJ6vAXBg=="
+  "signature": "Ar3UZWPHjUi4LrrSpekMme7nYYlgXg18hjaq6bdcDrvmoHp/+nywVqIBJ9TzD7vaLmbHbDDYvLLPL+BbgdDADg=="
 }
