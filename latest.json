@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.44",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.44.exe",
-    "sha256": "bed1b7464762e68f98723d54950e417d9e205c60aac0ebb8c2f05439e86f6938",
-    "size": 75619982,
-    "notes": "링크형 카드뉴스에 '모양' 선택(원본 모양 그대로 / 카드 칸형)이 생기고, 글 목록은 폰 화면을 꽉 채우는 9:16으로 만들어요. 깨진 글자(お☒)와 어색한 줄바꿈을 고쳤고, 인스타(폰) 올리기에 Tailscale 연결이 들어갔어요.",
-    "published_at": "2026-11-08T10:39:43Z"
+    "version": "0.7.45",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.45.exe",
+    "sha256": "b066e585764d4eaec1a78ba5fd2cd299f275607c27c8b2ad748413657ffb6bd6",
+    "size": 75648107,
+    "notes": "링크형 '원본형'이 원본 모양(아빠 + 엄마 = 자녀 같은 그림 줄, 기호, 이름표)을 그대로 두고 글만 일본어로 바꿔요. 버튼은 원본형 / 표칸형, 일본어 줄바꿈도 낱말 가운데서 안 끊겨요.",
+    "published_at": "2026-11-08T18:20:39Z"
   },
-  "signature": "ujmJBSszLGqedkTm2vd+q7DbjOXVWY24Bq3K44hqikwaF4Shnddy58m1ddeOCXPWuChLFS1EB8+Bon0L/dT8AQ=="
+  "signature": "hWNZ0ibKJeUzb11hTw/nnLainJV67TcjDIM4+E5dv1mRnNmR+TsLiNAjIU2H4uf2bWYFUbC0yBNgSUSjU8m3DA=="
 }
