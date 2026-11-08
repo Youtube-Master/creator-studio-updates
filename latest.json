@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.42",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.42.exe",
-    "sha256": "f7762f4da3c0f39ffb3096d0ac6fd9b8f0b7bdd6965d1c73c96d7c8824b9cbfa",
-    "size": 75498336,
-    "notes": "휴대폰 앱·웹에서 PC 원격 조작, PC 화면 열기, AI 플레이리스트, 카톡 중계를 쓸 수 있어요.",
-    "published_at": "2026-11-07T16:23:46Z"
+    "version": "0.7.44",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.44.exe",
+    "sha256": "bed1b7464762e68f98723d54950e417d9e205c60aac0ebb8c2f05439e86f6938",
+    "size": 75619982,
+    "notes": "링크형 카드뉴스에 '모양' 선택(원본 모양 그대로 / 카드 칸형)이 생기고, 글 목록은 폰 화면을 꽉 채우는 9:16으로 만들어요. 깨진 글자(お☒)와 어색한 줄바꿈을 고쳤고, 인스타(폰) 올리기에 Tailscale 연결이 들어갔어요.",
+    "published_at": "2026-11-08T10:39:43Z"
   },
-  "signature": "Mb3nOeYvQLxkcohStGVfsLPB+xPFaL0ditw3Q0YOYeCa32nV7yedAiGU910Qw/ckHWjdchiu6qltbm4TzuVSBA=="
+  "signature": "ujmJBSszLGqedkTm2vd+q7DbjOXVWY24Bq3K44hqikwaF4Shnddy58m1ddeOCXPWuChLFS1EB8+Bon0L/dT8AQ=="
 }
