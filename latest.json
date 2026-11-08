@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.45",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.45.exe",
-    "sha256": "b066e585764d4eaec1a78ba5fd2cd299f275607c27c8b2ad748413657ffb6bd6",
-    "size": 75648107,
-    "notes": "링크형 '원본형'이 원본 모양(아빠 + 엄마 = 자녀 같은 그림 줄, 기호, 이름표)을 그대로 두고 글만 일본어로 바꿔요. 버튼은 원본형 / 표칸형, 일본어 줄바꿈도 낱말 가운데서 안 끊겨요.",
-    "published_at": "2026-11-08T18:20:39Z"
+    "version": "0.7.48",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.48.exe",
+    "sha256": "af369b7d50dcffdeb8f7ad656a646d5497c8246cd726722afaff21736b8a5a6e",
+    "size": 75672008,
+    "notes": "💡 소재 발굴 새 메뉴: 유튜브에서 하루 3번(아침·점심·저녁) 소재를 찾아 카테고리별 소재란에 넣어요. 일반인 레전드와 연예인 밈은 따로, 롱폼·쇼츠 둘 다, 좋아요 많은 실제 댓글 1~2개 함께. 이미 추천한 영상·사망 사고는 빼고 혐오 1위 댓글은 표시. 휴대폰 앱에서도 볼 수 있어요. ⚙ 설정에 YouTube Data API 키를 넣으면 시작해요.",
+    "published_at": "2026-11-08T20:42:09Z"
   },
-  "signature": "hWNZ0ibKJeUzb11hTw/nnLainJV67TcjDIM4+E5dv1mRnNmR+TsLiNAjIU2H4uf2bWYFUbC0yBNgSUSjU8m3DA=="
+  "signature": "fgeBPVvIWjcqwNWG1LqK4T10u/Gc97ec1+0lvWiXx8WIlc4/5dEN4jC383wA4+CgzBI7ATmzLhzJjUUORB0/DQ=="
 }
