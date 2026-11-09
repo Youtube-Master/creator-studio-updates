@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.50",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.50.exe",
-    "sha256": "105e71323ed32b474cf545a9f24c88029f2925cedf5b3372e8206cd4c1606256",
-    "size": 75729049,
-    "notes": "카드뉴스: ⏰ 대기열·예약 만들기(링크 여러 개를 넣어 두고 예약 시간부터 하나씩 차례로, 하나 끝나면 몇 분 쉬고 다음). 원본형 그림이 한 줄뿐이면 화면 가로를 거의 다 쓰게 크게(사진은 칸에 꽉 차게, ①②③④는 그림 위 흰 동그라미), 옆 칸 조각 흰 줄 없애기. 카드 바탕색 고르기(원래 쓰던 색·흰색·검정색, 다 만든 뒤에도 '문구만 다시 그리기'로 바탕만 바꾸기).",
-    "published_at": "2026-11-09T08:46:53Z"
+    "version": "0.7.51",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.51.exe",
+    "sha256": "725cb14bd807aeedae1bf4e71a16398d760792fb26b49fcde8ca8113350490e8",
+    "size": 75738367,
+    "notes": "카드뉴스: '그림 느낌' 고르기(🤖 알아서·🧸 귀여운 그림·📷 실사). 알아서로 두면 원본이 실제 사진이거나 관찰력 테스트·1~5 정도 고르기면 실사 사진으로 그림. 링크 원본 화면을 찍을 때 Creator Studio 창이 대신 찍히던 문제 고침. 사진 한 줄이면 칸을 세로로 길게, 사진 둘레 흰 띠·제미나이 로고 가림 자국 없애기, 질문 끝이 「…は何」처럼 잘리던 것 고침.",
+    "published_at": "2026-11-09T10:19:55Z"
   },
-  "signature": "kPLhmVowetIF1an745xIdUT+iBoDrRviwK7z9Z7MrkzzOtOZi5e2vGN1oqMmQh5MmoeDQFAQBT55phG8ywtgAA=="
+  "signature": "5QpGpST4A1UlVmhEBLzUUWO0gAIRWtVlmAR1+DW/9jUC8qLbcXbSL2riN2rUQb3AbiyjSIYdJcMXBNr2wdqkBQ=="
 }
