@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.49",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.49.exe",
-    "sha256": "374fd8ddac8e6d0fa5d64741b3c53b31ce5d3b734514ca1b3014a2d5f1be8358",
-    "size": 75702908,
-    "notes": "카드뉴스: 릴스가 폰 화면(9:16)에 빈 곳 없이 꽉 차게(칸형도), 긴 칸 이름은 줄이지 않고 두 줄로. 디스코드·앱에서 캡션·고정댓글·투표를 따로 나눠 복사하기 쉽게, 한글 독음·뜻은 맨 아래 따로. 링크형 '🤖 알아서 판단'(AI가 바꾸는 방식·모양을 고르고 이유도 보여 줌)과 입력 없이 만드는 '🤖 알아서 자동'(전에 만든 것 바탕으로 새 주제). 휴대폰 연결: 밖에서 쓰는 주소가 바뀌면 디스코드로도 새 링크 보내기.",
-    "published_at": "2026-11-08T21:10:10Z"
+    "version": "0.7.50",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.50.exe",
+    "sha256": "105e71323ed32b474cf545a9f24c88029f2925cedf5b3372e8206cd4c1606256",
+    "size": 75729049,
+    "notes": "카드뉴스: ⏰ 대기열·예약 만들기(링크 여러 개를 넣어 두고 예약 시간부터 하나씩 차례로, 하나 끝나면 몇 분 쉬고 다음). 원본형 그림이 한 줄뿐이면 화면 가로를 거의 다 쓰게 크게(사진은 칸에 꽉 차게, ①②③④는 그림 위 흰 동그라미), 옆 칸 조각 흰 줄 없애기. 카드 바탕색 고르기(원래 쓰던 색·흰색·검정색, 다 만든 뒤에도 '문구만 다시 그리기'로 바탕만 바꾸기).",
+    "published_at": "2026-11-09T08:46:53Z"
   },
-  "signature": "2kAA3KVyuBkKuAgyKklCGFaFARMTPTb2OqnokOgqXpgasnscSZXLgV2UMXd4A3e4SqRdmCqcavUk5d8jihczBw=="
+  "signature": "kPLhmVowetIF1an745xIdUT+iBoDrRviwK7z9Z7MrkzzOtOZi5e2vGN1oqMmQh5MmoeDQFAQBT55phG8ywtgAA=="
 }
