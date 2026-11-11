@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.54",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.54.exe",
-    "sha256": "c07c3498a8700a837a5a4b6bab926c96d0980d400ea529e83e86981a5769b51f",
-    "size": 85911777,
-    "notes": "카드뉴스 글 방식 '📝 일반형 / 💌 DM 전달형' 선택(기본 일반형), 나라별 운영 단계별 페이지·📱 모으고 만들기·홈 피드 숫자 읽기 고침·🎬 계정 릴스 조회수로만",
-    "published_at": "2026-11-11T10:44:32Z"
+    "version": "0.7.55",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.55.exe",
+    "sha256": "276e39e859c2e710896d80711a9b54c25dcd414cad0fd77842365d904eb40da7",
+    "size": 85908997,
+    "notes": "폰 피드 모으기 고침: 쉼표가 든 숫자(좋아요 13,453개)를 제대로 읽고, 홈 피드에서 앞 게시물 숫자가 다음 게시물에 붙지 않게 했어요. 돋보기 게시물을 본 뒤 탭 줄로 돌아가 홈·릴스도 이어서 보고, 릴스 캡션도 읽고, 내 계정 게시물은 빼요. 남길 게 없을 때 '기준을 넘는 소재가 없었어요' 대신 진짜 이유(본 개수, 가장 높은 숫자, 못 본 곳)를 보여 줘요.",
+    "published_at": "2026-11-11T18:52:50Z"
   },
-  "signature": "aAETOhxoWfK/Bx25luDcKU71htBc0nQOBMdXqld/tEseqprA2ODHYq4kby9ZznchZ8DgVCMwuY63HHgmzrVDAA=="
+  "signature": "sFxum05uKw5vBrqVG6npj4GhVoS8WZIwFGZdjRHjlQu8cPmZtRcwVeGj6IBRe6dW/L8Hfj0BQoExWFLesy3UAQ=="
 }
