@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.53",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.53.exe",
-    "sha256": "7aa983988ed2f1511d586bafe51aef3618513766b561e384f9386cda5d0be87c",
-    "size": 85876275,
-    "notes": "임시 버전. 🌍 나라별 운영: 👤 계정 칸(수집할 계정·나라별 올릴 계정, 폰 앱에서도), 릴스·게시물·캐러셀을 프로필→대시보드→모범 사례→도달 길로 올리기, 음악 2지선다(추천/저장 랜덤), 볼륨 안 건드림, 설문 뒤 캡션 다시 넣기, 올리기가 멈추면 디스코드 알림, 아래 릴스 탭을 계속 누르던 문제 고침. 카드뉴스: 원본 유지 그림 크게, 제미나이 워터마크·영어 이름·칸 선 지우기, 창 안 띄우기, 예시 보기 6가지, 댓글 키워드 DM.",
-    "published_at": "2026-11-11T07:56:48Z"
+    "version": "0.7.54",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.54.exe",
+    "sha256": "c07c3498a8700a837a5a4b6bab926c96d0980d400ea529e83e86981a5769b51f",
+    "size": 85911777,
+    "notes": "카드뉴스 글 방식 '📝 일반형 / 💌 DM 전달형' 선택(기본 일반형), 나라별 운영 단계별 페이지·📱 모으고 만들기·홈 피드 숫자 읽기 고침·🎬 계정 릴스 조회수로만",
+    "published_at": "2026-11-11T10:44:32Z"
   },
-  "signature": "0e6qx77O+cZLCsxdGgX6bdXK6eAJ/cbYhJkdFINv2koXmnfjxyS3s43QnFm1piMCuIFEFi21sgihjjmgaip9DA=="
+  "signature": "aAETOhxoWfK/Bx25luDcKU71htBc0nQOBMdXqld/tEseqprA2ODHYq4kby9ZznchZ8DgVCMwuY63HHgmzrVDAA=="
 }
