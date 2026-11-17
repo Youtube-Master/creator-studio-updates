@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.57",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.57.exe",
-    "sha256": "6bac0c2a5dc981f9bc0df70699e55eca69d3713e47037b09169f7c2d5c75ac1b",
-    "size": 86012372,
-    "notes": "카드뉴스: 결과를 채팅으로 다시 고치기, 🔮 해석형 글 방식, 퀴즈는 고정댓글에 정답과 이유, 제미나이 Pro 자동 선택, 글씨 크게·여백 줄임. 딸깍 멀티유즈: 카테고리별 설정·지침, 컨펌 화면 채팅 고치기(✅ OK = 바로 예약), 컨펌한 것 올리는 때 선택, 디스코드 컨펌 한국어 해석, 팔로우 계정은 평소보다 잘된 것 위주, 댓글 기준, 폰 잠금 쓸어서 풀기.",
-    "published_at": "2026-11-12T09:56:09Z"
+    "version": "0.7.58",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.58.exe",
+    "sha256": "c1aa71e5bfe9ab1fe7965a96ce2b545de6fba2db5c7608f843ca682d7b653792",
+    "size": 86009999,
+    "notes": "카드뉴스: 진행 글을 짧게 줄이고, 0~100% 빨간 진행 막대로 보여 줘요.",
+    "published_at": "2026-11-17T18:26:51Z"
   },
-  "signature": "HaXImUKQw6WKOfBY2G77vgnphkcKd0Kxnf3D5DxFZQklsKs8CMiLT3fj6VYS4DtETkPLCBwIG3VEOwzEbS9oDw=="
+  "signature": "GygEzhfBfet8qxPrnx3QYKgwwFQnWYI4DsMc9r+5NvPn9GMCYxx6HhQth0ZWqaZijoQ960iYui36epyprLvACA=="
 }
