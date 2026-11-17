@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.58",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.58.exe",
-    "sha256": "c1aa71e5bfe9ab1fe7965a96ce2b545de6fba2db5c7608f843ca682d7b653792",
-    "size": 86009999,
-    "notes": "카드뉴스: 진행 글을 짧게 줄이고, 0~100% 빨간 진행 막대로 보여 줘요.",
-    "published_at": "2026-11-17T18:26:51Z"
+    "version": "0.7.59",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.59.exe",
+    "sha256": "aa3a23b4877cadcc71d36b424abe1addaa28734046505b76f11ea837f15ca2c8",
+    "size": 86246196,
+    "notes": "🧵 쓰레드 스튜디오 새 메뉴. 💬 카톡 중계: 읽는 방법 3가지(📋 복사 / 📸 창 사진 / 📱 휴대폰 알림, 마우스·키보드 안 뺏음), 여러 핫딜방의 같은 상품은 처음 것만(24시간/영영), 상품 링크 아닌 링크·홍보 줄 빼기, 토스쇼핑 링크를 내 쉐어링크로 자동 변환(🗺 상품 지도 / 🚫 안 보내기)",
+    "published_at": "2026-11-17T23:36:07Z"
   },
-  "signature": "GygEzhfBfet8qxPrnx3QYKgwwFQnWYI4DsMc9r+5NvPn9GMCYxx6HhQth0ZWqaZijoQ960iYui36epyprLvACA=="
+  "signature": "JObjo9jcwdpVW1gvdyo7WpUTAgIuYwLSHVlY98saKnntHZn9RF6vhdyTsXibao3FpP5yU1V8KzYhaMoPAEGQBw=="
 }
