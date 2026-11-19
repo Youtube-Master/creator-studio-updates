@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.59",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.59.exe",
-    "sha256": "aa3a23b4877cadcc71d36b424abe1addaa28734046505b76f11ea837f15ca2c8",
-    "size": 86246196,
-    "notes": "🧵 쓰레드 스튜디오 새 메뉴. 💬 카톡 중계: 읽는 방법 3가지(📋 복사 / 📸 창 사진 / 📱 휴대폰 알림, 마우스·키보드 안 뺏음), 여러 핫딜방의 같은 상품은 처음 것만(24시간/영영), 상품 링크 아닌 링크·홍보 줄 빼기, 토스쇼핑 링크를 내 쉐어링크로 자동 변환(🗺 상품 지도 / 🚫 안 보내기)",
-    "published_at": "2026-11-17T23:36:07Z"
+    "version": "0.7.60",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.60.exe",
+    "sha256": "5aa763b472dde7f072a70456cdc69c611bce100c561a33d480fa224e7895541a",
+    "size": 86272897,
+    "notes": "채널 수익: 바뀐 YouTube '채널 통계' 화면도 읽어요. '올려': 채널마다 제작 폴더를 한 번 연결하면 채팅에 '올려'라고 칠 때 최종본만 바로 올리고 15분 뒤 공개해요. 인스타 폰 업로드: 게시물은 마지막 사진 1장 + 음악 + 캡션·설문 + 고정댓글, 릴스는 음악 소리 25까지 자동. 카드뉴스에 '게시물로 올리기' / '릴스로 올리기' 버튼.",
+    "published_at": "2026-11-19T01:03:36Z"
   },
-  "signature": "JObjo9jcwdpVW1gvdyo7WpUTAgIuYwLSHVlY98saKnntHZn9RF6vhdyTsXibao3FpP5yU1V8KzYhaMoPAEGQBw=="
+  "signature": "FUwo5DUJ4DRKcd+jS167CHUR2I/QsA1ddBXuD+xUat0xgrugCFSJ1VqOcnODkh6uTnF2AF3hCrJMAXDwylCNAQ=="
 }
