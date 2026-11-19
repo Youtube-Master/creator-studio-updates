@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.61",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.61.exe",
-    "sha256": "28ee3dc7d05c6bdcc57c3b07406204f46dec375615a44f827c03bda8c497e9e7",
-    "size": 86306723,
-    "notes": "자동 업로드: 유튜브가 바꾼 '고급 설정 표시' 버튼 인식(업로드 중간 실패 고침), 평가 제출→평가 저장됨→다음 순서, 바로 공개는 공개→저장. 새 '🤫 뒤에서 올리기': 마우스·키보드를 안 뺏고 작은 창에서 혼자 올림(기본 켜짐).",
-    "published_at": "2026-11-19T21:05:44Z"
+    "version": "0.7.62",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.62.exe",
+    "sha256": "b8b4682994e0d4bc19a0d20fbc3b3e8c2b58205790f3ed4d01afef7fefb1b71f",
+    "size": 86322413,
+    "notes": "자동 업로드 전체 점검: 영상(.mp4) 하나만 올림(엉뚱한 파일이면 멈춤), '사이트에서 나가시겠습니까?' 뜨면 자동 취소 후 계속, 제목 두 번 들어가던 문제, 넓은 창에서 '고급 설정 표시' 못 누르던 문제, 지난 예약 시각 자동 미룸.",
+    "published_at": "2026-11-19T22:33:44Z"
   },
-  "signature": "6DBi5UdzzseSKZ6+EiJK538LAu6E5cD6fi8h9qkhBQpiGJ3T7ydVaYTnKJuifcx12KmaT9n4SpORmrMuQ2fgBw=="
+  "signature": "J8y3aiuECVX0n3+zogAsiBsxgqHFg6vx2ZN7EtvnmGceYGa6KQUWuBG7j1OLLRYa+8+OI2PXRAJosFdq4KzGCg=="
 }
