@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.60",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.60.exe",
-    "sha256": "5aa763b472dde7f072a70456cdc69c611bce100c561a33d480fa224e7895541a",
-    "size": 86272897,
-    "notes": "채널 수익: 바뀐 YouTube '채널 통계' 화면도 읽어요. '올려': 채널마다 제작 폴더를 한 번 연결하면 채팅에 '올려'라고 칠 때 최종본만 바로 올리고 15분 뒤 공개해요. 인스타 폰 업로드: 게시물은 마지막 사진 1장 + 음악 + 캡션·설문 + 고정댓글, 릴스는 음악 소리 25까지 자동. 카드뉴스에 '게시물로 올리기' / '릴스로 올리기' 버튼.",
-    "published_at": "2026-11-19T01:03:36Z"
+    "version": "0.7.61",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.61.exe",
+    "sha256": "28ee3dc7d05c6bdcc57c3b07406204f46dec375615a44f827c03bda8c497e9e7",
+    "size": 86306723,
+    "notes": "자동 업로드: 유튜브가 바꾼 '고급 설정 표시' 버튼 인식(업로드 중간 실패 고침), 평가 제출→평가 저장됨→다음 순서, 바로 공개는 공개→저장. 새 '🤫 뒤에서 올리기': 마우스·키보드를 안 뺏고 작은 창에서 혼자 올림(기본 켜짐).",
+    "published_at": "2026-11-19T21:05:44Z"
   },
-  "signature": "FUwo5DUJ4DRKcd+jS167CHUR2I/QsA1ddBXuD+xUat0xgrugCFSJ1VqOcnODkh6uTnF2AF3hCrJMAXDwylCNAQ=="
+  "signature": "6DBi5UdzzseSKZ6+EiJK538LAu6E5cD6fi8h9qkhBQpiGJ3T7ydVaYTnKJuifcx12KmaT9n4SpORmrMuQ2fgBw=="
 }
