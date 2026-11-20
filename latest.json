@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.62",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.62.exe",
-    "sha256": "b8b4682994e0d4bc19a0d20fbc3b3e8c2b58205790f3ed4d01afef7fefb1b71f",
-    "size": 86322413,
-    "notes": "자동 업로드 전체 점검: 영상(.mp4) 하나만 올림(엉뚱한 파일이면 멈춤), '사이트에서 나가시겠습니까?' 뜨면 자동 취소 후 계속, 제목 두 번 들어가던 문제, 넓은 창에서 '고급 설정 표시' 못 누르던 문제, 지난 예약 시각 자동 미룸.",
-    "published_at": "2026-11-19T22:33:44Z"
+    "version": "0.7.63",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.63.exe",
+    "sha256": "e42230909d7043df9bc0a6219c4a2bfd425a9f085b18f345fcd001aa37697089",
+    "size": 86312126,
+    "notes": "자동 업로드 예약: 업로드 창 뒤 목록의 날짜를 잘못 고르던 문제 고침(예약 ∨ → 날짜 → 시간 → 예약 순서대로)",
+    "published_at": "2026-11-20T01:56:48Z"
   },
-  "signature": "J8y3aiuECVX0n3+zogAsiBsxgqHFg6vx2ZN7EtvnmGceYGa6KQUWuBG7j1OLLRYa+8+OI2PXRAJosFdq4KzGCg=="
+  "signature": "YCKgrGP48Ujf8sAYTgNNJN8vDd18VgQNIVEu3/TreniM5cXcyZEixQ1p33SeKcpV6t2q1mHOiW2YCpw1A3IICg=="
 }
