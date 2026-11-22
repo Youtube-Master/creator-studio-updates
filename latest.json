@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.64",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.64.exe",
-    "sha256": "bb19f35d19a9ae20128f1540ac1b90da8793e7b5dcc6354b205ef4b3f9190fad",
-    "size": 86317150,
-    "notes": "자동 업로드 예약: 이름 없는 시간 칸도 찾아서 정해 둔 시각을 넣음",
-    "published_at": "2026-11-20T06:20:20Z"
+    "version": "0.7.65",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.65.exe",
+    "sha256": "d9bcc307cffa3208d60bd978c113e7d573031aec8b2ffcd7e170df97d1fce3cb",
+    "size": 86325934,
+    "notes": "자동 업로드: 제목 앞 버전(v6_ 등)을 빼고, 뒤에서 넣은 제목·설명이 스튜디오에 저장되게 고침",
+    "published_at": "2026-11-22T02:32:00Z"
   },
-  "signature": "Q5lp+1cbJGGhiB0eeyTsp2gU7U+KIIYNw3JPK1JgBckHyw00iy8sQDXrCMBXNEXqZon8vQEmTM0/7P4kzHn0CA=="
+  "signature": "+ij/RPYtuNoqPRk+zg93wLxxsfsGUnFuI7/S11qd+U39QtREjiIUkCQ/cv8IK5Bda8b1uv0bOlnVHxkCDMenDA=="
 }
