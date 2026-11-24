@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.65",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.65.exe",
-    "sha256": "d9bcc307cffa3208d60bd978c113e7d573031aec8b2ffcd7e170df97d1fce3cb",
-    "size": 86325934,
-    "notes": "자동 업로드: 제목 앞 버전(v6_ 등)을 빼고, 뒤에서 넣은 제목·설명이 스튜디오에 저장되게 고침",
-    "published_at": "2026-11-22T02:32:00Z"
+    "version": "0.7.66",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.66.exe",
+    "sha256": "8655129f5f011f2205502f29e61181af4651a2c65f5d371268b546866a348faa",
+    "size": 86387629,
+    "notes": "카드뉴스: '게시물로/릴스로 올리기' 버튼을 '만들면 자동 업로드' 켜고 끄기(게시물 자동/릴스 자동)로 바꿈. 링크형·대기열·알아서 자동 모두 다 만들어지면 폰으로 인스타에 바로 올림. '지금 올리기' 버튼 추가. 휴대폰 앱 3.4·아이폰 웹에서도 켜고 끄기.",
+    "published_at": "2026-11-24T12:35:21Z"
   },
-  "signature": "+ij/RPYtuNoqPRk+zg93wLxxsfsGUnFuI7/S11qd+U39QtREjiIUkCQ/cv8IK5Bda8b1uv0bOlnVHxkCDMenDA=="
+  "signature": "ocF2sOIWo462u511/CgPbBOIXoExNxbanzit3A/NTfC7hABEvGn8bWLXc3q4U4rFlnYCH0Bd+wpXQAPyiCFUBw=="
 }
