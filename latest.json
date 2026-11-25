@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.66",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.66.exe",
-    "sha256": "8655129f5f011f2205502f29e61181af4651a2c65f5d371268b546866a348faa",
-    "size": 86387629,
-    "notes": "카드뉴스: '게시물로/릴스로 올리기' 버튼을 '만들면 자동 업로드' 켜고 끄기(게시물 자동/릴스 자동)로 바꿈. 링크형·대기열·알아서 자동 모두 다 만들어지면 폰으로 인스타에 바로 올림. '지금 올리기' 버튼 추가. 휴대폰 앱 3.4·아이폰 웹에서도 켜고 끄기.",
-    "published_at": "2026-11-24T12:35:21Z"
+    "version": "0.7.67",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.67.exe",
+    "sha256": "220f3acf3e5c8c7364ed30cf2e1101f7711065b21a4542df4d54adcd7f329215",
+    "size": 86440285,
+    "notes": "딸깍·카드뉴스 폰 업로드가 노래를 고르고 릴스는 볼륨 25로 맞춤, 이모지 설문을 실패로 잘못 멈추던 문제 고침, 딸깍 진행률 빨간 막대",
+    "published_at": "2026-11-25T03:22:26Z"
   },
-  "signature": "ocF2sOIWo462u511/CgPbBOIXoExNxbanzit3A/NTfC7hABEvGn8bWLXc3q4U4rFlnYCH0Bd+wpXQAPyiCFUBw=="
+  "signature": "i+feHH7WSuDQTIdda5BnLP+pmUkewePYaA2HstpkXNa4pOuZpnqTinf67i1l27nPrmzuo1HnLfOBZ4tinyYoBg=="
 }
