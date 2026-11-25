@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.68",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.68.exe",
-    "sha256": "565c1f986ed7dca54664acf56e9d54d776e9a5823c444bf2bf831014c7a91e96",
-    "size": 86443667,
-    "notes": "카톡 중계: 보내는 방 글을 같은 뜻·다른 말로(가격 줄 모양·이모지 바꿈, 존댓말 후킹 멘트), 무신사 새 큐레이터 링크(onelink) 변환 + 3번 다시 시도, 지그재그 큐레이터 링크 변환 추가, 시작할 때 링크별 준비 상태 표시",
-    "published_at": "2026-11-25T06:59:02Z"
+    "version": "0.7.70",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.70.exe",
+    "sha256": "210aebf4b973fce22bf6b815b3cc2af674905914b15dd3d9517304fa279d7ca6",
+    "size": 86466984,
+    "notes": "카드뉴스 💧 워터마크: 넣기/빼기, 이름형(@계정)/로고형, 투명/반투명 — 카드·릴스·딸깍 멀티유즈·나라별 버전에 자동, 휴대폰 앱에서도 켜고 끄기. '다시 고치기'가 없는 설정을 안내하던 것 고침. 지그재그 큐레이터 '링크가 안 나왔어요' 고침(공유 창이 잘려도 '링크 복사하기' 누름, s.zigzag.kr 짧은 링크 상품 번호 읽기)",
+    "published_at": "2026-11-25T10:31:03Z"
   },
-  "signature": "Fs0JnMi11wbSSCmpqCo5FkwlD/4RvMAeYK/r3mfEE4b8h8gc31vqwx+RXxJ5/awTQnPXYP7caqi1XfaVhPvkBw=="
+  "signature": "zwYwYckvO8uS86oAl4Q11WDsagWv87rHcaRfOjFTh+aho/dKTEYM8kNUmzKGSajoDXDycQyLFh2DtgPay7G+AQ=="
 }
