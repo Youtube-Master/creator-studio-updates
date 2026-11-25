@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.70",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.70.exe",
-    "sha256": "210aebf4b973fce22bf6b815b3cc2af674905914b15dd3d9517304fa279d7ca6",
-    "size": 86466984,
-    "notes": "카드뉴스 💧 워터마크: 넣기/빼기, 이름형(@계정)/로고형, 투명/반투명 — 카드·릴스·딸깍 멀티유즈·나라별 버전에 자동, 휴대폰 앱에서도 켜고 끄기. '다시 고치기'가 없는 설정을 안내하던 것 고침. 지그재그 큐레이터 '링크가 안 나왔어요' 고침(공유 창이 잘려도 '링크 복사하기' 누름, s.zigzag.kr 짧은 링크 상품 번호 읽기)",
-    "published_at": "2026-11-25T10:31:03Z"
+    "version": "0.7.71",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.71.exe",
+    "sha256": "42f18ef14daadab2dc18b3cb43ac1f93ae77c7d31cf5c097a40490cb1ba03905",
+    "size": 86464555,
+    "notes": "카드뉴스 워터마크: 로고형인데 로고 파일이 없으면 이름(@계정)으로 대신 찍음, 찍을 게 없으면 빨간 글씨로 이유를 알려 줌",
+    "published_at": "2026-11-25T11:21:38Z"
   },
-  "signature": "zwYwYckvO8uS86oAl4Q11WDsagWv87rHcaRfOjFTh+aho/dKTEYM8kNUmzKGSajoDXDycQyLFh2DtgPay7G+AQ=="
+  "signature": "5QUUWPMOj9DzaEzgzY5U/OdAzCEMaZwXyhoWF0uGZz+aEs/2CpvC8qi0GCFfrZAeOLBrpPQVEaZvWEoHzL7rCQ=="
 }
