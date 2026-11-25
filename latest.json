@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.67",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.67.exe",
-    "sha256": "220f3acf3e5c8c7364ed30cf2e1101f7711065b21a4542df4d54adcd7f329215",
-    "size": 86440285,
-    "notes": "딸깍·카드뉴스 폰 업로드가 노래를 고르고 릴스는 볼륨 25로 맞춤, 이모지 설문을 실패로 잘못 멈추던 문제 고침, 딸깍 진행률 빨간 막대",
-    "published_at": "2026-11-25T03:22:26Z"
+    "version": "0.7.68",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.68.exe",
+    "sha256": "565c1f986ed7dca54664acf56e9d54d776e9a5823c444bf2bf831014c7a91e96",
+    "size": 86443667,
+    "notes": "카톡 중계: 보내는 방 글을 같은 뜻·다른 말로(가격 줄 모양·이모지 바꿈, 존댓말 후킹 멘트), 무신사 새 큐레이터 링크(onelink) 변환 + 3번 다시 시도, 지그재그 큐레이터 링크 변환 추가, 시작할 때 링크별 준비 상태 표시",
+    "published_at": "2026-11-25T06:59:02Z"
   },
-  "signature": "i+feHH7WSuDQTIdda5BnLP+pmUkewePYaA2HstpkXNa4pOuZpnqTinf67i1l27nPrmzuo1HnLfOBZ4tinyYoBg=="
+  "signature": "Fs0JnMi11wbSSCmpqCo5FkwlD/4RvMAeYK/r3mfEE4b8h8gc31vqwx+RXxJ5/awTQnPXYP7caqi1XfaVhPvkBw=="
 }
