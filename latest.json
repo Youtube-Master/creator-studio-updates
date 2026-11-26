@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.72",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.72.exe",
-    "sha256": "af4d0322f4779c3dbc14b3fc728c43486328fb0314fc1d018afbab7c0d947f81",
-    "size": 86463631,
-    "notes": "카톡 중계: 에이블리 큐레이터 링크 변환 추가(연결 정보 → 에이블리 큐레이터 → 로그인 창 열기로 한 번 로그인)",
-    "published_at": "2026-11-26T05:55:53Z"
+    "version": "0.7.73",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.73.exe",
+    "sha256": "583717782d2cc06f388d7f8f3962603ac3cba132f8fb01a4b175b7b539b582d0",
+    "size": 86472005,
+    "notes": "카톡 중계: 방 세트(1번방·2번방…, 세트마다 읽는 방·보내는 방·속도 따로, 이름 바꾸기), 쇼핑몰마다 ON/OFF, 수수료 문구 한 번만 + 아래 한 칸 띄우기",
+    "published_at": "2026-11-26T10:03:44Z"
   },
-  "signature": "DROfQ9hFA1Ml8vUJ0ubwE9u/F59E+rgf7HNn0bKUG9+Bdp6akf/X0NdasHbxorVt71VLQMRYtHZKJX/0cApJBQ=="
+  "signature": "TpQqCXtwtceTs6KnXtov8GqUxtOflVa9Zn4F2BImCFwVlmjBqQL5YbtEdowHxD5vodGJN6cjZGOPVqaW+kSbCA=="
 }
