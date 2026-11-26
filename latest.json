@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "0.7.71",
-    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.71.exe",
-    "sha256": "42f18ef14daadab2dc18b3cb43ac1f93ae77c7d31cf5c097a40490cb1ba03905",
-    "size": 86464555,
-    "notes": "카드뉴스 워터마크: 로고형인데 로고 파일이 없으면 이름(@계정)으로 대신 찍음, 찍을 게 없으면 빨간 글씨로 이유를 알려 줌",
-    "published_at": "2026-11-25T11:21:38Z"
+    "version": "0.7.72",
+    "url": "https://raw.githubusercontent.com/Youtube-Master/creator-studio-updates/main/releases/CreatorStudio-Setup-0.7.72.exe",
+    "sha256": "af4d0322f4779c3dbc14b3fc728c43486328fb0314fc1d018afbab7c0d947f81",
+    "size": 86463631,
+    "notes": "카톡 중계: 에이블리 큐레이터 링크 변환 추가(연결 정보 → 에이블리 큐레이터 → 로그인 창 열기로 한 번 로그인)",
+    "published_at": "2026-11-26T05:55:53Z"
   },
-  "signature": "5QUUWPMOj9DzaEzgzY5U/OdAzCEMaZwXyhoWF0uGZz+aEs/2CpvC8qi0GCFfrZAeOLBrpPQVEaZvWEoHzL7rCQ=="
+  "signature": "DROfQ9hFA1Ml8vUJ0ubwE9u/F59E+rgf7HNn0bKUG9+Bdp6akf/X0NdasHbxorVt71VLQMRYtHZKJX/0cApJBQ=="
 }
